@@ -9,7 +9,7 @@
 https://github.com/user-attachments/assets/0784ac2a-7fd6-427a-851f-a188beb754e6
 
 <p align="center">
-<a href="https://github.com/2207juan/EVA/releases/tag/v0.1.0-phase1"><img src="assets/download.svg" alt="Download ISO" /></a>
+<a href="https://drive.google.com/drive/folders/1uZRp9SGSDykXUKvbprnLntPWDCimsDnt?usp=sharing"><img src="assets/download.svg" alt="Download ISO" /></a>
 <a href="#preview"><img src="assets/preview.svg" alt="Previews" /></a>
 <a href="https://github.com/2207juan/EVA/issues"><img src="assets/issues.svg" alt="Report a bug" /></a>
 <a href="https://www.instagram.com/eva.frik"><img src="assets/instagram.svg" alt="Follow us" /></a>
@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/0784ac2a-7fd6-427a-851f-a188beb754e6
 
 ## Preview
 
-The features pictured here are part of Eva and install together with the ISO. **Download ISO** opens the release files; **Previews** jumps to this gallery; **Follow us** opens Instagram; **Report a bug** opens GitHub Issues.
+The features pictured here are part of Eva and install together with the ISO. **Download ISO** opens the folder containing the complete ISO; **Previews** jumps to this gallery; **Follow us** opens Instagram; **Report a bug** opens GitHub Issues.
 
 ![Eva desktop — dark theme and card workspaces](assets/previews/desktop-dark.png)
 
@@ -102,31 +102,17 @@ https://github.com/user-attachments/assets/3f3e1602-7770-4390-9e48-c558f5cd5bcc
 
 ## Download and install
 
-**[Open the Phase 1 download](https://github.com/2207juan/EVA/releases/tag/v0.1.0-phase1).** x86_64 · BIOS / UEFI.
+**[Download the complete Eva ISO](https://drive.google.com/drive/folders/1uZRp9SGSDykXUKvbprnLntPWDCimsDnt?usp=sharing).** Beta · x86_64 · BIOS / UEFI · 3.67 GiB.
 
-1. Download these **four files** into the same folder:
-
-   - [Eva-2026.10.06-x86_64.iso.part-001](https://github.com/2207juan/EVA/releases/download/v0.1.0-phase1/Eva-2026.10.06-x86_64.iso.part-001)
-   - [Eva-2026.10.06-x86_64.iso.part-002](https://github.com/2207juan/EVA/releases/download/v0.1.0-phase1/Eva-2026.10.06-x86_64.iso.part-002)
-   - [release.json](https://github.com/2207juan/EVA/releases/download/v0.1.0-phase1/release.json)
-   - [reconstruir.py](https://github.com/2207juan/EVA/releases/download/v0.1.0-phase1/reconstruir.py)
-
-2. Install [Python 3](https://www.python.org/downloads/) if needed. Open a terminal in that folder and run:
-
-   ```sh
-   python3 reconstruir.py --join release.json
-   ```
-
-   On Windows, use `python` instead of `python3`. The script verifies both parts and creates `Eva-2026.10.06-x86_64.iso`. **This is one ISO split into two downloads.**
-
-3. Prepare a USB drive of **8 GB or more** with [Ventoy](https://www.ventoy.net/en/doc_start.html), then copy the reconstructed `.iso` onto it. Preparing the USB erases its contents. Windows users can also write the ISO with [Rufus](https://rufus.ie/en/).
-4. Restart your computer, choose the USB in its boot menu, and select Eva. You can try the desktop before installing.
-5. Open the Eva installer (Calamares). Choose your language, keyboard, installation disk and user account; review the summary before confirming. Back up your files first: erasing a disk deletes its contents.
-6. When installation finishes, restart and remove the USB.
+1. Open the download folder and download **`Eva-2026.10.06-x86_64.iso`**. It is one complete ISO, ready to use.
+2. Prepare a USB drive of **8 GB or more** with [Ventoy](https://www.ventoy.net/en/doc_start.html), then copy the `.iso` onto it. Preparing the USB erases its contents. Windows users can also write the ISO with [Rufus](https://rufus.ie/en/).
+3. Restart your computer, choose the USB in its boot menu, and select Eva. You can try the desktop before installing.
+4. Open the Eva installer (Calamares). Choose your language, keyboard, installation disk and user account; review the summary before confirming. Back up your files first: erasing a disk deletes its contents.
+5. When installation finishes, restart and remove the USB.
 
 Game Center, Prisma, the dock, widgets and pets are included in Eva. Games and optional AI API keys are supplied separately. GitHub's **Source code (zip/tar.gz)** files contain this presentation, not the installation image.
 
-> Phase 1 is a testing release. Back up your files before installing. Please report issues with your hardware, steps to reproduce and a screenshot without personal information.
+> Eva is a beta project and may contain bugs. Please report issues with your hardware, steps to reproduce and a screenshot without personal information.
 
 ## Updates
 
