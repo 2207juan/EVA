@@ -64,6 +64,18 @@ Switch between your applications and workspaces. This capture shows Prisma and a
 - Animated pets with optional AI conversation. Bring your own API key; availability depends on the provider.
 - Calamares installer and themed boot menu.
 
+## GRUB boot themes
+
+Actual boot menus from the Eva ISO. Choose them in **Boot menu themes**.
+
+**Eva Night Room · Default**
+
+![Eva Night Room default GRUB theme](assets/previews/grub-eva.png)
+
+| Evacraft · Minecraft style | Netrunner |
+| :-- | :-- |
+| ![Evacraft GRUB boot menu](assets/previews/grub-evacraft.png) | ![Netrunner GRUB boot menu](assets/previews/grub-netrunner.png) |
+
 ## Motion
 
 Native animations while opening and closing **Prisma**, with actual application windows.

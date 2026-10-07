@@ -64,6 +64,18 @@ Cambia entre tus aplicaciones y espacios de trabajo. La captura muestra Prisma y
 - Mascotas animadas con conversación opcional mediante IA. Necesitas tu propia clave API; la disponibilidad depende del proveedor.
 - Instalador Calamares y menú de arranque personalizado.
 
+## Diseños de arranque GRUB
+
+Menús reales de arranque de la ISO de Eva. Puedes elegirlos en **Boot menu themes**.
+
+**Eva Night Room · Principal**
+
+![Diseño principal Eva Night Room de GRUB](assets/previews/grub-eva.png)
+
+| Evacraft · Estilo Minecraft | Netrunner |
+| :-- | :-- |
+| ![Menú de arranque GRUB Evacraft](assets/previews/grub-evacraft.png) | ![Menú de arranque GRUB Netrunner](assets/previews/grub-netrunner.png) |
+
 ## Animaciones
 
 Animaciones nativas al abrir y cerrar **Prisma**, con ventanas reales de la aplicación.
