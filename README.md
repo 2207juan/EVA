@@ -2,7 +2,9 @@
 
 ![Eva — Phase 1](assets/banner.svg)
 
-**Eva is an Arch Linux system with its own Wayland desktop.** Phase 1 is available for public testing.
+**Eva is an Arch Linux system with its own Wayland desktop.** **Beta · Phase 1.**
+
+> Eva is a beta project and may contain bugs. [Reporting an issue](https://github.com/2207juan/EVA/issues/new/choose) helps us improve Eva and grow the project!
 
 https://github.com/user-attachments/assets/0784ac2a-7fd6-427a-851f-a188beb754e6
 
@@ -48,6 +50,12 @@ The features pictured here are part of Eva and install together with the ISO. **
 </details>
 
 Screenshots show the actual Eva interface in English with Glass disabled, using an isolated demo profile. Weather uses New York; the Game Center shows an example library. Games are not included. The audio preview uses real, isolated virtual devices.
+
+## TAB overview
+
+Switch between your applications and workspaces. This capture shows Prisma and a real terminal.
+
+![Eva TAB overview with Prisma and a terminal](assets/previews/tab-overview.png)
 
 ## Inside Eva
 
