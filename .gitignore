@@ -1,0 +1,5 @@
+*.iso
+*.iso.part-*
+*.pkg.tar.*
+*.log
+__pycache__/

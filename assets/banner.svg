@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Eva — Phase 1 public testing">
+<defs><linearGradient id="sky" x2="1" y2=".4"><stop stop-color="#502ba7"/><stop offset=".5" stop-color="#254785"/><stop offset="1" stop-color="#078291"/></linearGradient><linearGradient id="wave"><stop stop-color="#b387ff"/><stop offset="1" stop-color="#8fe7ec"/></linearGradient></defs>
+<rect width="1200" height="280" rx="20" fill="#0b1121"/>
+<path d="M0 20Q0 0 20 0H1180Q1200 0 1200 20V220C920 270 760 178 550 216S205 270 0 220Z" fill="url(#sky)"/>
+<g fill="#e3f5ff" opacity=".5"><circle cx="74" cy="53" r="1.4"/><circle cx="1086" cy="68" r="2"/><circle cx="959" cy="149" r="1.5"/><circle cx="195" cy="177" r="1"/><circle cx="325" cy="57" r="1.3"/><circle cx="839" cy="45" r="1"/></g>
+<circle cx="1060" cy="142" r="48" fill="none" stroke="#90e7ee" stroke-opacity=".18"/><ellipse cx="1060" cy="142" rx="76" ry="17" transform="rotate(-25 1060 142)" fill="none" stroke="url(#wave)" stroke-opacity=".4"/>
+<text x="64" y="62" fill="#b8edf2" font-family="Arial,sans-serif" font-size="12" letter-spacing="4">PHASE 1 · PUBLIC TESTING</text>
+<text x="59" y="142" fill="#ffffff" font-family="Arial,sans-serif" font-size="80" font-weight="700" letter-spacing="8">EVA</text>
+<text x="64" y="180" fill="#e4eefc" font-family="Arial,sans-serif" font-size="20">Arch Linux · Eva desktop · Wayland</text>
+<path d="M0 249C230 211 334 268 598 243S1000 263 1200 233" fill="none" stroke="url(#wave)" stroke-opacity=".35"/>
+</svg>

@@ -1,0 +1,36 @@
+name: Report a bug / Informar de un problema
+description: Help improve Eva Phase 1.
+title: "[Bug]: "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Eva version / Versión de Eva
+    validations:
+      required: true
+  - type: input
+    id: hardware
+    attributes:
+      label: Hardware / Equipo
+      placeholder: Desktop or laptop · CPU · GPU
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce / Cómo reproducirlo
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: What happened / Qué ocurrió
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result / Resultado esperado
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots / Capturas
+      description: Remove personal information before attaching screenshots.
