@@ -70,7 +70,7 @@ Versión 1.0 · Beta. Puede contener errores. [Ayuda a Eva a crecer reportándol
 
 ### Fondos de pantalla
 
-https://github.com/user-attachments/assets/f7bece99-2b37-4f90-93f8-d29c98183fbe
+https://github.com/user-attachments/assets/716de8e5-ca57-4716-9d3a-875ed670b163
 
 <details>
 <summary>Vista previa animada</summary>
