@@ -8,6 +8,8 @@ Version 1.0 · Beta. There may be bugs. [Help Eva grow by reporting them.](https
 
 <video src="https://github.com/user-attachments/assets/0784ac2a-7fd6-427a-851f-a188beb754e6" controls width="960"></video>
 
+<p align="center"><img src="assets/welcome.gif" alt="Eva welcome video · animated preview" width="640" /></p>
+
 <p align="center">
 <a href="https://drive.google.com/drive/folders/1uZRp9SGSDykXUKvbprnLntPWDCimsDnt?usp=sharing"><img src="assets/download.svg" alt="Download ISO" /></a>
 <a href="#gallery"><img src="assets/preview.svg" alt="Gallery" /></a>
@@ -28,7 +30,7 @@ Version 1.0 · Beta. There may be bugs. [Help Eva grow by reporting them.](https
 | ![Appearance](assets/previews/en/appearance-dark.png) | ![Bubbles](assets/previews/en/workspace-bubbles.png) |
 
 
-### TAB
+**TAB**
 
 ![TAB](assets/previews/en/tab-overview.png)
 
@@ -45,14 +47,11 @@ Version 1.0 · Beta. There may be bugs. [Help Eva grow by reporting them.](https
 | **Tilt** | **Cursor · rotation** |
 | ![Tilt](assets/previews/en/tilt.gif) | ![Cursor · rotation](assets/previews/en/cursor-rotate.gif) |
 
-<details>
-<summary>Cursor trail</summary>
+### Cursor trail
 
 ![Cursor trail](assets/previews/en/cursor-follow.gif)
 
-</details>
-
-## AI & companions
+## Personalization
 
 ![AI · Super + I](assets/previews/en/ai-island.png)
 
@@ -61,52 +60,30 @@ Version 1.0 · Beta. There may be bugs. [Help Eva grow by reporting them.](https
 | ![Companions · Super + I](assets/previews/en/ai-pets.png) | ![Pet habitat](assets/previews/en/pet-home.png) |
 
 
-## Everyday
+## System
 
 | Prisma | Multimedia |
 | :-- | :-- |
 | ![Prisma](assets/previews/en/prisma.png) | ![Multimedia](assets/previews/en/multimedia.png) |
 
 
-### Wallpapers
+| Wallpapers | Volume |
+| :-- | :-- |
+| ![Image and video wallpapers](assets/previews/en/wallpaper-transition.gif) | ![Volume](assets/previews/en/volume.gif) |
 
-https://github.com/user-attachments/assets/c3cd9237-7e1e-43cf-a7ff-71271c6bf149
 
-<details>
-<summary>Animated preview</summary>
+<video src="https://github.com/user-attachments/assets/c3cd9237-7e1e-43cf-a7ff-71271c6bf149" controls width="1280"></video>
 
-![Image and video wallpapers](assets/previews/en/wallpaper-transition.gif)
-
-</details>
-
-### Volume
-
-![Volume](assets/previews/en/volume.gif)
+## Widgets
 
 | Weather | System monitor |
 | :-- | :-- |
 | ![Weather](assets/previews/en/weather.png) | ![System monitor](assets/previews/en/system.png) |
+| **Game Center** | **Gaming · Marvel Rivals** |
+| ![Game Center](assets/previews/en/game-center.png) | ![Gaming · Marvel Rivals](assets/previews/en/gaming-dashboard.png) |
 
 
-### Game Center
-
-![Game Center](assets/previews/en/game-center.png)
-
-<sub>Library preview. Games are installed separately.</sub>
-
-### Gaming
-
-![Gaming · Marvel Rivals](assets/previews/en/gaming-dashboard.png)
-
-<sub>Dashboard demo · simulated metrics.</sub>
-
-## GRUB
-
-![Eva](assets/previews/grub-eva.png)
-
-| Evacraft | Netrunner |
-| :-- | :-- |
-| ![Evacraft](assets/previews/grub-evacraft.png) | ![Netrunner](assets/previews/grub-netrunner.png) |
+<sub>Gaming demo · simulated metrics.</sub>
 
 ## Install
 
@@ -117,6 +94,14 @@ https://github.com/user-attachments/assets/c3cd9237-7e1e-43cf-a7ff-71271c6bf149
 3. Try Eva, then open **Install Eva** to install.
 
 <sub>Back up your files before changing partitions.</sub>
+
+## GRUB
+
+![Eva](assets/previews/grub-eva.png)
+
+| Evacraft | Netrunner |
+| :-- | :-- |
+| ![Evacraft](assets/previews/grub-evacraft.png) | ![Netrunner](assets/previews/grub-netrunner.png) |
 
 ---
 

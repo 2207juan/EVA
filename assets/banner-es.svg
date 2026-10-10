@@ -1,6 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Eva · VERSIÓN 1.0 · BETA">
 <defs><linearGradient id="bg" x2="1" y2=".7"><stop stop-color="#20143c"/><stop offset=".48" stop-color="#11172b"/><stop offset="1" stop-color="#0c2932"/></linearGradient><linearGradient id="line"><stop stop-color="#b395ff"/><stop offset=".6" stop-color="#72d8ee"/><stop offset="1" stop-color="#f4bd76"/></linearGradient><radialGradient id="orb"><stop stop-color="#65508b"/><stop offset=".7" stop-color="#2a284e"/><stop offset="1" stop-color="#161c31"/></radialGradient></defs>
 <rect x="1" y="1" width="1198" height="318" rx="24" fill="url(#bg)" stroke="#394454"/>
+<rect x="20" y="20" width="1160" height="280" rx="19" fill="none" stroke="url(#line)" stroke-opacity=".2"/>
+<rect x="836" y="44" width="272" height="226" rx="24" fill="#13253a" fill-opacity=".6" stroke="#78cfdd" stroke-opacity=".28"/>
 <path d="M0 270Q230 190 460 250T950 235T1200 265" fill="none" stroke="url(#line)" opacity=".25"/>
 <path d="M0 284Q230 204 460 264T950 249T1200 279" fill="none" stroke="url(#line)" opacity=".09"/>
 <g fill="#d9e9ff" opacity=".5"><circle cx="684" cy="46" r="1.3"/><circle cx="821" cy="244" r="1"/><circle cx="744" cy="182" r="1.4"/><circle cx="1110" cy="75" r="1.5"/><circle cx="1031" cy="263" r="1.4"/><circle cx="564" cy="85" r="1"/><circle cx="850" cy="59" r="1"/></g>
