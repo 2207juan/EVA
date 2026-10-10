@@ -70,8 +70,6 @@ Version 1.0 · Beta. There may be bugs. [Help Eva grow by reporting them.](https
 | ![Image and video wallpapers](assets/previews/en/wallpaper-transition.gif) | ![Volume](assets/previews/en/volume.gif) |
 
 
-<video src="https://github.com/user-attachments/assets/c3cd9237-7e1e-43cf-a7ff-71271c6bf149" controls width="1280"></video>
-
 ## Widgets
 
 | Weather | System monitor |

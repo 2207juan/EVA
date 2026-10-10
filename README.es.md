@@ -70,8 +70,6 @@ Versión 1.0 · Beta. Puede contener errores. [Ayuda a Eva a crecer reportándol
 | ![Fondos de imagen y video](assets/previews/es/wallpaper-transition.gif) | ![Volumen](assets/previews/es/volume.gif) |
 
 
-<video src="https://github.com/user-attachments/assets/716de8e5-ca57-4716-9d3a-875ed670b163" controls width="1280"></video>
-
 ## Widgets
 
 | Clima | Monitor del sistema |
