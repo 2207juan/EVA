@@ -1,121 +1,108 @@
 <p align="center"><a href="README.md">English</a> · <a href="README.es.md">Español</a></p>
 
-![Eva — Phase 1](assets/banner.svg)
+![Eva · PHASE 1 / BETA](assets/banner.svg)
 
-**Eva is an Arch Linux system with its own Wayland desktop.** **Beta · Phase 1.**
+**An Arch Linux distribution with its own Wayland compositor.**
 
-> Eva is a beta project and may contain bugs. [Reporting an issue](https://github.com/2207juan/EVA/issues/new/choose) helps us improve Eva and grow the project!
+Phase 1 · Beta. There may be bugs. [Help Eva grow by reporting them.](https://github.com/2207juan/EVA/issues/new/choose)
 
 https://github.com/user-attachments/assets/0784ac2a-7fd6-427a-851f-a188beb754e6
 
 <p align="center">
 <a href="https://drive.google.com/drive/folders/1uZRp9SGSDykXUKvbprnLntPWDCimsDnt?usp=sharing"><img src="assets/download.svg" alt="Download ISO" /></a>
-<a href="#preview"><img src="assets/preview.svg" alt="Previews" /></a>
-<a href="https://github.com/2207juan/EVA/issues"><img src="assets/issues.svg" alt="Report a bug" /></a>
+<a href="#gallery"><img src="assets/preview.svg" alt="Gallery" /></a>
+<a href="https://github.com/2207juan/EVA/issues/new/choose"><img src="assets/issues.svg" alt="Report a bug" /></a>
 <a href="https://www.instagram.com/eva.frik"><img src="assets/instagram.svg" alt="Follow us" /></a>
 </p>
 
-## Preview
+<a id="gallery"></a>
 
-The features pictured here are part of Eva and install together with the ISO. **Download ISO** opens the folder containing the complete ISO; **Previews** jumps to this gallery; **Follow us** opens Instagram; **Report a bug** opens GitHub Issues.
+## Desktop
 
-![Eva desktop — dark theme and card workspaces](assets/previews/desktop-dark.png)
+![Desktop · medallions](assets/previews/en/desktop-files.png)
 
-| Dark theme | Weather |
+| Dock | Launcher |
 | :-- | :-- |
-| ![Appearance settings](assets/previews/appearance-dark.png) | ![Live weather in New York](assets/previews/weather-new-york.png) |
-| **Dock** | **Launcher · design 2** |
-| ![Bottom dock](assets/previews/dock.png) | ![Orbit launcher](assets/previews/launcher-orbit.png) |
-| **Game Center** | **System monitor** |
-| ![Game Center with a Portal 2 example](assets/previews/game-center.png) | ![Live system monitor](assets/previews/system.png) |
-| **Animated companion** | **Pet habitat** |
-| ![Cascarón on the desktop](assets/previews/pet.png) | ![Pet habitat and games](assets/previews/pet-home.png) |
+| ![Dock](assets/previews/en/dock.png) | ![Launcher](assets/previews/en/launcher-orbit.png) |
+| **Appearance** | **Bubbles** |
+| ![Appearance](assets/previews/en/appearance-dark.png) | ![Bubbles](assets/previews/en/workspace-bubbles.png) |
 
 
-| Desktop files and folders | Prisma file manager |
+### TAB
+
+![TAB](assets/previews/en/tab-overview.png)
+
+## Windows
+
+| Tiled | Floating |
 | :-- | :-- |
-| ![Photos and colored folders on the desktop](assets/previews/desktop-files.png) | ![Prisma browsing real demonstration files](assets/previews/prisma.png) |
-| **Wallpaper selector** | **Multimedia controls** |
-| ![Wallpaper selector](assets/previews/wallpaper-selector.png) | ![Local video playback and media controls](assets/previews/multimedia.png) |
-| **Audio settings** | **Volume popup** |
-| ![Input and output volume controls](assets/previews/audio-volume.png) | ![Volume popup](assets/previews/volume-osd.png) |
+| ![Tiled](assets/previews/en/windows-tiled.png) | ![Floating](assets/previews/en/windows-floating.png) |
+
+
+| Glitch RGB | Lamp |
+| :-- | :-- |
+| ![Glitch RGB](assets/previews/en/glitch.gif) | ![Lamp](assets/previews/en/lamp.gif) |
+| **Tilt** | **Cursor · rotation** |
+| ![Tilt](assets/previews/en/tilt.gif) | ![Cursor · rotation](assets/previews/en/cursor-rotate.gif) |
 
 <details>
-<summary>Bubbles and workspace overview</summary>
+<summary>Cursor trail</summary>
 
-![Dark desktop with bubble workspaces](assets/previews/workspace-bubbles.png)
-
-![Workspace overview](assets/previews/workspace-overview.png)
+![Cursor trail](assets/previews/en/cursor-follow.gif)
 
 </details>
 
-Screenshots show the actual Eva interface in English with Glass disabled, using an isolated demo profile. Weather uses New York; the Game Center shows an example library. Games are not included. The audio preview uses real, isolated virtual devices.
+## AI & companions
 
-## TAB overview
+![AI · Super + I](assets/previews/en/ai-island.png)
 
-Switch between your applications and workspaces. This capture shows Prisma and a real terminal.
-
-![Eva TAB overview with Prisma and a terminal](assets/previews/tab-overview.png)
-
-## Inside Eva
-
-- Dark, light and Liquid Glass appearance; configurable bars, dock, widgets and workspaces.
-- Game Center, Prisma file manager, screenshots and screen recording.
-- Animated pets with optional AI conversation. Bring your own API key; availability depends on the provider.
-- Calamares installer and themed boot menu.
-
-## GRUB boot themes
-
-Actual boot menus from the Eva ISO. Choose them in **Boot menu themes**.
-
-**Eva Night Room · Default**
-
-![Eva Night Room default GRUB theme](assets/previews/grub-eva.png)
-
-| Evacraft · Minecraft style | Netrunner |
+| Companions · Super + I | Pet habitat |
 | :-- | :-- |
-| ![Evacraft GRUB boot menu](assets/previews/grub-evacraft.png) | ![Netrunner GRUB boot menu](assets/previews/grub-netrunner.png) |
+| ![Companions · Super + I](assets/previews/en/ai-pets.png) | ![Pet habitat](assets/previews/en/pet-home.png) |
 
-## Motion
 
-Native animations while opening and closing **Prisma**, with actual application windows.
+## Everyday
 
-| RGB glitch | Lamp |
+| Prisma | Wallpapers |
 | :-- | :-- |
-| ![RGB glitch opening animation](assets/previews/glitch.gif) | ![Lamp closing animation](assets/previews/lamp.gif) |
+| ![Prisma](assets/previews/en/prisma.png) | ![Wallpapers](assets/previews/en/wallpaper-selector.png) |
+| **Multimedia** | **Audio** |
+| ![Multimedia](assets/previews/en/multimedia.png) | ![Audio](assets/previews/en/audio-volume.png) |
 
 
-<details>
-<summary>Play the application animation videos</summary>
+### Volume
 
-**RGB glitch · Prisma opening**
+![Volume](assets/previews/en/volume.gif)
 
-https://github.com/user-attachments/assets/c9a0be91-fbf7-4670-ac9b-d6a901fe1269
+| Weather · New York | System monitor |
+| :-- | :-- |
+| ![Weather · New York](assets/previews/en/weather-new-york.png) | ![System monitor](assets/previews/en/system.png) |
 
-**Lamp · Prisma closing**
 
-https://github.com/user-attachments/assets/3f3e1602-7770-4390-9e48-c558f5cd5bcc
+### Game Center
 
-</details>
+![Game Center](assets/previews/en/game-center.png)
 
-<a id="download"></a>
+<sub>Library preview. Games are installed separately.</sub>
 
-## Download and install
+## GRUB
 
-**[Download the complete Eva ISO](https://drive.google.com/drive/folders/1uZRp9SGSDykXUKvbprnLntPWDCimsDnt?usp=sharing).** Beta · x86_64 · BIOS / UEFI · 3.67 GiB.
+![Eva](assets/previews/grub-eva.png)
 
-1. Open the download folder and download **`Eva-2026.10.06-x86_64.iso`**. It is one complete ISO, ready to use.
-2. Prepare a USB drive of **8 GB or more** with [Ventoy](https://www.ventoy.net/en/doc_start.html), then copy the `.iso` onto it. Preparing the USB erases its contents. Windows users can also write the ISO with [Rufus](https://rufus.ie/en/).
-3. Restart your computer, choose the USB in its boot menu, and select Eva. You can try the desktop before installing.
-4. Open the Eva installer (Calamares). Choose your language, keyboard, installation disk and user account; review the summary before confirming. Back up your files first: erasing a disk deletes its contents.
-5. When installation finishes, restart and remove the USB.
+| Evacraft | Netrunner |
+| :-- | :-- |
+| ![Evacraft](assets/previews/grub-evacraft.png) | ![Netrunner](assets/previews/grub-netrunner.png) |
 
-Game Center, Prisma, the dock, widgets and pets are included in Eva. Games and optional AI API keys are supplied separately. GitHub's **Source code (zip/tar.gz)** files contain this presentation, not the installation image.
+## Install
 
-> Eva is a beta project and may contain bugs. Please report issues with your hardware, steps to reproduce and a screenshot without personal information.
+**[Download Eva ISO](https://drive.google.com/drive/folders/1uZRp9SGSDykXUKvbprnLntPWDCimsDnt?usp=sharing)** · x86_64 · BIOS / UEFI
 
-## Updates
+1. Download the `.iso` from Drive.
+2. Copy it to a Ventoy USB and boot from it.
+3. Try Eva, then open **Install Eva** to install.
 
-Eva keeps personal settings in your user profile. Eva package updates create local recovery snapshots before upgrading. Reinstalling or formatting a partition is a separate operation; keep a backup of your files.
+<sub>Back up your files before changing partitions.</sub>
 
-[Report an issue](https://github.com/2207juan/EVA/issues) · [Follow us on social media](https://www.instagram.com/eva.frik)
+---
+
+[Report a bug](https://github.com/2207juan/EVA/issues/new/choose) · [Instagram](https://www.instagram.com/eva.frik)
