@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Eva · PHASE 1 / BETA">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Eva · VERSION 1.0 · BETA">
 <defs><linearGradient id="bg" x2="1" y2=".7"><stop stop-color="#20143c"/><stop offset=".48" stop-color="#11172b"/><stop offset="1" stop-color="#0c2932"/></linearGradient><linearGradient id="line"><stop stop-color="#b395ff"/><stop offset=".6" stop-color="#72d8ee"/><stop offset="1" stop-color="#f4bd76"/></linearGradient><radialGradient id="orb"><stop stop-color="#65508b"/><stop offset=".7" stop-color="#2a284e"/><stop offset="1" stop-color="#161c31"/></radialGradient></defs>
 <rect x="1" y="1" width="1198" height="318" rx="24" fill="url(#bg)" stroke="#394454"/>
 <path d="M0 270Q230 190 460 250T950 235T1200 265" fill="none" stroke="url(#line)" opacity=".25"/>
@@ -7,8 +7,8 @@
 <circle cx="968" cy="160" r="69" fill="url(#orb)" stroke="#778bba" stroke-opacity=".25"/>
 <ellipse cx="968" cy="160" rx="140" ry="33" transform="rotate(-26 968 160)" fill="none" stroke="url(#line)" stroke-width="2" opacity=".7"/>
 <ellipse cx="968" cy="160" rx="148" ry="37" transform="rotate(-26 968 160)" fill="none" stroke="#88b5e1" opacity=".14"/>
-<rect x="54" y="43" width="174" height="28" rx="14" fill="#b39aff" fill-opacity=".11" stroke="#b39aff" stroke-opacity=".3"/>
-<text x="141" y="62" text-anchor="middle" fill="#d1bcff" font-family="Arial,sans-serif" font-size="11" letter-spacing="2">PHASE 1 / BETA</text>
+<rect x="54" y="43" width="210" height="28" rx="14" fill="#b39aff" fill-opacity=".11" stroke="#b39aff" stroke-opacity=".3"/>
+<text x="159" y="62" text-anchor="middle" fill="#d1bcff" font-family="Arial,sans-serif" font-size="11" letter-spacing="1.5">VERSION 1.0 · BETA</text>
 <text x="49" y="191" fill="#f1f4ff" font-family="Arial,sans-serif" font-weight="700" font-size="120" letter-spacing="8">EVA</text>
 <text x="56" y="236" fill="#b5c7dc" font-family="Arial,sans-serif" font-size="19">Arch Linux · Own compositor · Wayland</text>
 <path d="M56 265H330" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>

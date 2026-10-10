@@ -1,12 +1,12 @@
 <p align="center"><a href="README.md">English</a> · <a href="README.es.md">Español</a></p>
 
-![Eva · FASE 1 / BETA](assets/banner-es.svg)
+![Eva · VERSIÓN 1.0 · BETA](assets/banner-es.svg)
 
 **Una distribución basada en Arch Linux con su propio compositor Wayland.**
 
-Fase 1 · Beta. Puede contener errores. [Ayuda a Eva a crecer reportándolos.](https://github.com/2207juan/EVA/issues/new/choose)
+Versión 1.0 · Beta. Puede contener errores. [Ayuda a Eva a crecer reportándolos.](https://github.com/2207juan/EVA/issues/new/choose)
 
-https://github.com/user-attachments/assets/0784ac2a-7fd6-427a-851f-a188beb754e6
+<video src="https://github.com/user-attachments/assets/0784ac2a-7fd6-427a-851f-a188beb754e6" controls width="960"></video>
 
 <p align="center">
 <a href="https://drive.google.com/drive/folders/1uZRp9SGSDykXUKvbprnLntPWDCimsDnt?usp=sharing"><img src="assets/download-es.svg" alt="Descargar ISO" /></a>
@@ -63,20 +63,29 @@ https://github.com/user-attachments/assets/0784ac2a-7fd6-427a-851f-a188beb754e6
 
 ## Día a día
 
-| Prisma | Fondos de pantalla |
+| Prisma | Multimedia |
 | :-- | :-- |
-| ![Prisma](assets/previews/es/prisma.png) | ![Fondos de pantalla](assets/previews/es/wallpaper-selector.png) |
-| **Multimedia** | **Sonido** |
-| ![Multimedia](assets/previews/es/multimedia.png) | ![Sonido](assets/previews/es/audio-volume.png) |
+| ![Prisma](assets/previews/es/prisma.png) | ![Multimedia](assets/previews/es/multimedia.png) |
 
+
+### Fondos de pantalla
+
+<video src="https://github.com/user-attachments/assets/f7bece99-2b37-4f90-93f8-d29c98183fbe" controls width="1280"></video>
+
+<details>
+<summary>Vista previa animada</summary>
+
+![Fondos de imagen y video](assets/previews/es/wallpaper-transition.gif)
+
+</details>
 
 ### Volumen
 
 ![Volumen](assets/previews/es/volume.gif)
 
-| Clima · Nueva York | Monitor del sistema |
+| Clima | Monitor del sistema |
 | :-- | :-- |
-| ![Clima · Nueva York](assets/previews/es/weather-new-york.png) | ![Monitor del sistema](assets/previews/es/system.png) |
+| ![Clima](assets/previews/es/weather.png) | ![Monitor del sistema](assets/previews/es/system.png) |
 
 
 ### Game Center
@@ -84,6 +93,12 @@ https://github.com/user-attachments/assets/0784ac2a-7fd6-427a-851f-a188beb754e6
 ![Game Center](assets/previews/es/game-center.png)
 
 <sub>Vista de la biblioteca. Los juegos se instalan por separado.</sub>
+
+### Gaming
+
+![Gaming · Marvel Rivals](assets/previews/es/gaming-dashboard.png)
+
+<sub>Demostración del panel · métricas simuladas.</sub>
 
 ## GRUB
 

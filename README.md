@@ -1,12 +1,12 @@
 <p align="center"><a href="README.md">English</a> · <a href="README.es.md">Español</a></p>
 
-![Eva · PHASE 1 / BETA](assets/banner.svg)
+![Eva · VERSION 1.0 · BETA](assets/banner.svg)
 
 **An Arch Linux distribution with its own Wayland compositor.**
 
-Phase 1 · Beta. There may be bugs. [Help Eva grow by reporting them.](https://github.com/2207juan/EVA/issues/new/choose)
+Version 1.0 · Beta. There may be bugs. [Help Eva grow by reporting them.](https://github.com/2207juan/EVA/issues/new/choose)
 
-https://github.com/user-attachments/assets/0784ac2a-7fd6-427a-851f-a188beb754e6
+<video src="https://github.com/user-attachments/assets/0784ac2a-7fd6-427a-851f-a188beb754e6" controls width="960"></video>
 
 <p align="center">
 <a href="https://drive.google.com/drive/folders/1uZRp9SGSDykXUKvbprnLntPWDCimsDnt?usp=sharing"><img src="assets/download.svg" alt="Download ISO" /></a>
@@ -63,20 +63,29 @@ https://github.com/user-attachments/assets/0784ac2a-7fd6-427a-851f-a188beb754e6
 
 ## Everyday
 
-| Prisma | Wallpapers |
+| Prisma | Multimedia |
 | :-- | :-- |
-| ![Prisma](assets/previews/en/prisma.png) | ![Wallpapers](assets/previews/en/wallpaper-selector.png) |
-| **Multimedia** | **Audio** |
-| ![Multimedia](assets/previews/en/multimedia.png) | ![Audio](assets/previews/en/audio-volume.png) |
+| ![Prisma](assets/previews/en/prisma.png) | ![Multimedia](assets/previews/en/multimedia.png) |
 
+
+### Wallpapers
+
+<video src="https://github.com/user-attachments/assets/d6f56e6b-62c5-495e-8cb1-e5104f5586e3" controls width="1280"></video>
+
+<details>
+<summary>Animated preview</summary>
+
+![Image and video wallpapers](assets/previews/en/wallpaper-transition.gif)
+
+</details>
 
 ### Volume
 
 ![Volume](assets/previews/en/volume.gif)
 
-| Weather · New York | System monitor |
+| Weather | System monitor |
 | :-- | :-- |
-| ![Weather · New York](assets/previews/en/weather-new-york.png) | ![System monitor](assets/previews/en/system.png) |
+| ![Weather](assets/previews/en/weather.png) | ![System monitor](assets/previews/en/system.png) |
 
 
 ### Game Center
@@ -84,6 +93,12 @@ https://github.com/user-attachments/assets/0784ac2a-7fd6-427a-851f-a188beb754e6
 ![Game Center](assets/previews/en/game-center.png)
 
 <sub>Library preview. Games are installed separately.</sub>
+
+### Gaming
+
+![Gaming · Marvel Rivals](assets/previews/en/gaming-dashboard.png)
+
+<sub>Dashboard demo · simulated metrics.</sub>
 
 ## GRUB
 
