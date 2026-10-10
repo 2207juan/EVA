@@ -8,8 +8,6 @@ Version 1.0 · Beta. There may be bugs. [Help Eva grow by reporting them.](https
 
 <video src="https://github.com/user-attachments/assets/0784ac2a-7fd6-427a-851f-a188beb754e6" controls width="960"></video>
 
-<p align="center"><img src="assets/welcome.gif" alt="Eva welcome video · animated preview" width="640" /></p>
-
 <p align="center">
 <a href="https://drive.google.com/drive/folders/1uZRp9SGSDykXUKvbprnLntPWDCimsDnt?usp=sharing"><img src="assets/download.svg" alt="Download ISO" /></a>
 <a href="#gallery"><img src="assets/preview.svg" alt="Gallery" /></a>
