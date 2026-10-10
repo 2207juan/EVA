@@ -70,7 +70,7 @@ Version 1.0 · Beta. There may be bugs. [Help Eva grow by reporting them.](https
 
 ### Wallpapers
 
-<video src="https://github.com/user-attachments/assets/d6f56e6b-62c5-495e-8cb1-e5104f5586e3" controls width="1280"></video>
+https://github.com/user-attachments/assets/d6f56e6b-62c5-495e-8cb1-e5104f5586e3
 
 <details>
 <summary>Animated preview</summary>
