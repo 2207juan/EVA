@@ -4,7 +4,7 @@
 
 **An Arch Linux distribution with its own Wayland compositor.**
 
-Version 1.0 · Beta. There may be bugs. [Help Eva grow by reporting them.](https://github.com/2207juan/EVA/issues/new/choose)
+Version 1.0 · Beta · [V4 · 2026-10-16](CHANGELOG.md). There may be bugs. [Help Eva grow by reporting them.](https://github.com/2207juan/EVA/issues/new/choose)
 
 <video src="https://github.com/user-attachments/assets/0784ac2a-7fd6-427a-851f-a188beb754e6" controls width="960"></video>
 
@@ -42,14 +42,18 @@ Version 1.0 · Beta. There may be bugs. [Help Eva grow by reporting them.](https
 | Glitch RGB | Lamp |
 | :-- | :-- |
 | ![Glitch RGB](assets/previews/en/glitch.gif) | ![Lamp](assets/previews/en/lamp.gif) |
-| **Tilt** | **Cursor · rotation** |
-| ![Tilt](assets/previews/en/tilt.gif) | ![Cursor · rotation](assets/previews/en/cursor-rotate.gif) |
 
-### Cursor trail
+**Tilt**
 
-![Cursor trail](assets/previews/en/cursor-follow.gif)
+![Tilt](assets/previews/en/tilt.gif)
 
 ## Personalization
+
+| Cursor glitch | Cursor trail |
+| :-- | :-- |
+| ![Cursor glitch](assets/previews/cursor-glitch.gif) | ![Cursor trail](assets/previews/cursor-trail.gif) |
+
+[Glitch video](assets/previews/cursor-glitch.mp4) · [Trail video](assets/previews/cursor-trail.mp4) · Recorded in EVA.
 
 ![AI · Super + I](assets/previews/en/ai-island.png)
 
@@ -59,6 +63,8 @@ Version 1.0 · Beta. There may be bugs. [Help Eva grow by reporting them.](https
 
 
 ## System
+
+![Dashboard](assets/previews/en/dashboard.png)
 
 | Prisma | Multimedia |
 | :-- | :-- |
@@ -75,15 +81,17 @@ Version 1.0 · Beta. There may be bugs. [Help Eva grow by reporting them.](https
 | Weather | System monitor |
 | :-- | :-- |
 | ![Weather](assets/previews/en/weather.png) | ![System monitor](assets/previews/en/system.png) |
-| **Game Center** | **Gaming · Marvel Rivals** |
-| ![Game Center](assets/previews/en/game-center.png) | ![Gaming · Marvel Rivals](assets/previews/en/gaming-dashboard.png) |
+| **Game library** | **Gaming · Marvel Rivals** |
+| ![Game library](assets/previews/en/game-center.png) | ![Gaming · Marvel Rivals](assets/previews/en/gaming-dashboard.png) |
 
 
-<sub>Gaming demo · simulated metrics.</sub>
+<sub>Library preview: 12 example Steam covers; no games installed or launched for this capture. Gaming demo: simulated metrics.</sub>
 
 ## Install
 
 **[Download Eva ISO](https://drive.google.com/drive/folders/1uZRp9SGSDykXUKvbprnLntPWDCimsDnt?usp=sharing)** · x86_64 · BIOS / UEFI
+
+<sub>These V4 previews show changes awaiting the next ISO build.</sub>
 
 1. Download the `.iso` from Drive.
 2. Copy it to a Ventoy USB and boot from it.
