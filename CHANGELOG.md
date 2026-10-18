@@ -38,6 +38,6 @@ Grabaciones nuevas del cursor glitch/estela en EVA sustituyen las de giro/seguim
 
 ## Welcome video · Vídeo de bienvenida · 2026-10-17
 
-- Added the original `eva-welcome.mp4` to the public repository, with a direct playback link in both READMEs when GitHub does not show its embedded player.
-- Se añadió el original `eva-welcome.mp4` al repositorio público y un enlace de reproducción directo en ambos idiomas cuando GitHub no muestra el reproductor integrado.
-- H.264/AAC, 960×540, aproximadamente 79 segundos; sin modificar la ISO ni duplicar el reproductor.
+- Restored playback inside both READMEs using a new native GitHub attachment in WebM (VP9/Opus), without redirect links or a second player.
+- Reproducción restaurada dentro del README en ambos idiomas mediante un nuevo adjunto nativo WebM (VP9/Opus), sin enlaces para salir de la página ni un segundo reproductor.
+- Presentación completa de unos 79 segundos. Se conserva el MP4 original como archivo del repositorio; no se modificó la ISO.
