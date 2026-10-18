@@ -8,7 +8,7 @@ Version 1.0 · Beta · [V4 · 2026-10-16](CHANGELOG.md). There may be bugs. [Hel
 
 <video src="https://github.com/user-attachments/assets/0784ac2a-7fd6-427a-851f-a188beb754e6" controls width="960"></video>
 
-**[▶ Watch eva-welcome.mp4](https://raw.githubusercontent.com/2207juan/EVA/main/assets/previews/eva-welcome.mp4)** · Open the video directly if GitHub does not show the player.
+**[▶ Watch eva-welcome.mp4](https://github.com/user-attachments/assets/0784ac2a-7fd6-427a-851f-a188beb754e6)** · **[Download MP4](https://raw.githubusercontent.com/2207juan/EVA/main/assets/previews/eva-welcome.mp4)** · If the GitHub app hides the player, open the video link in your browser.
 
 <p align="center">
 <a href="https://drive.google.com/drive/folders/1uZRp9SGSDykXUKvbprnLntPWDCimsDnt?usp=sharing"><img src="assets/download.svg" alt="Download ISO" /></a>
