@@ -35,3 +35,9 @@ Grabaciones nuevas del cursor glitch/estela en EVA sustituyen las de giro/seguim
 **Comprobaciones:** 12 tests unitarios; pruebas reales de foco/diálogos/escritorios en Prisma y cierre desde la IA; geometría de Inicio/Redes en ocho posiciones de barra/dock; 32 casos de distribución/estado de descargas. Se usó una sesión EVA headless aislada con recursos limitados. Los tests del helper GRUB cubren ocho temas, IDs inválidos, delegación de privilegios y restauración con una configuración de arranque simulada; falta un cambio real en un sistema instalado.
 
 **ISO:** son cambios de código y galería. No se construyó ni subió una ISO nueva. Quedan las pruebas de hardware/GPU y sistema instalado antes de publicar una nueva imagen.
+
+## Welcome video · Vídeo de bienvenida · 2026-10-17
+
+- Added the original `eva-welcome.mp4` to the public repository, with a direct playback link in both READMEs when GitHub does not show its embedded player.
+- Se añadió el original `eva-welcome.mp4` al repositorio público y un enlace de reproducción directo en ambos idiomas cuando GitHub no muestra el reproductor integrado.
+- H.264/AAC, 960×540, aproximadamente 79 segundos; sin modificar la ISO ni duplicar el reproductor.

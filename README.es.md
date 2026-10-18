@@ -8,6 +8,8 @@ Versión 1.0 · Beta · [V4 · 2026-10-16](CHANGELOG.md). Puede contener errores
 
 <video src="https://github.com/user-attachments/assets/0784ac2a-7fd6-427a-851f-a188beb754e6" controls width="960"></video>
 
+**[▶ Ver eva-welcome.mp4](https://raw.githubusercontent.com/2207juan/EVA/main/assets/previews/eva-welcome.mp4)** · Abre el vídeo directamente si GitHub no muestra el reproductor.
+
 <p align="center">
 <a href="https://drive.google.com/drive/folders/1uZRp9SGSDykXUKvbprnLntPWDCimsDnt?usp=sharing"><img src="assets/download-es.svg" alt="Descargar ISO" /></a>
 <a href="#gallery"><img src="assets/preview-es.svg" alt="Galería" /></a>
