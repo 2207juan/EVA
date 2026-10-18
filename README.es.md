@@ -6,7 +6,7 @@
 
 Versión 1.0 · Beta · [V4 · 2026-10-16](CHANGELOG.md). Puede contener errores. [Ayuda a Eva a crecer reportándolos.](https://github.com/2207juan/EVA/issues/new/choose)
 
-<video src="https://github.com/user-attachments/assets/66bce099-2a7d-4ea7-a75f-3814e7d73b33" controls width="960"></video>
+https://github.com/user-attachments/assets/66bce099-2a7d-4ea7-a75f-3814e7d73b33
 
 <p align="center">
 <a href="https://drive.google.com/drive/folders/1uZRp9SGSDykXUKvbprnLntPWDCimsDnt?usp=sharing"><img src="assets/download-es.svg" alt="Descargar ISO" /></a>
