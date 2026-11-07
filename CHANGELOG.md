@@ -1,3 +1,14 @@
+# 2026-11-06 · New visual layout / Nuevo diseño visual
+
+- New typographic cover, warm accent palette, feature sections and current screenshots.
+- Explicit English and Spanish document routes; language selection links to the matching page.
+- Dedicated installation, hardware compatibility and complete 64-action shortcut references, with separate PC/laptop defaults.
+- Faster continuous desktop tours, recorded again at 60 FPS, with 20 chapters, a downloaded NASA video wallpaper, widgets and game-cover demonstration entries.
+- Personal website added: https://webdesing-40d1a.web.app/
+- The original EVA video remains available. ISO downloads remain independent of these presentation updates.
+
+---
+
 # 2026-11-06 · Presentation refresh / Nueva presentación
 
 ## English

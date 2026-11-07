@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-label="EVA · Your desktop. Your rhythm.">
+ <defs><linearGradient id="c" x1="0" x2="1" y1="1" y2="0"><stop stop-color="#ff794f"/><stop offset="1" stop-color="#ffbd87"/></linearGradient><pattern id="p" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#19222b" opacity=".22"/></pattern></defs>
+ <rect width="1200" height="430" rx="26" fill="#10161e"/>
+ <rect x="731" width="469" height="430" rx="26" fill="url(#c)"/><path d="M731 0h26v430h-26" fill="url(#c)"/>
+ <rect x="759" y="29" width="410" height="372" rx="18" fill="url(#p)" stroke="#19222b" stroke-opacity=".25"/>
+ <text x="44" y="52" fill="#b9c4cf" font-family="DejaVu Sans,sans-serif" font-size="13" letter-spacing="3">EVA / DESKTOP BETA</text>
+ <text x="35" y="210" fill="#f6f5f1" font-family="DejaVu Sans,sans-serif" font-size="178" font-weight="800" letter-spacing="-11">EVA<tspan fill="#ff9f74">.</tspan></text>
+ <text x="47" y="282" fill="#f6f5f1" font-family="DejaVu Sans,sans-serif" font-size="36" font-weight="700">Your desktop.</text>
+ <text x="47" y="328" fill="#aebdcb" font-family="DejaVu Sans,sans-serif" font-size="36">Your rhythm.</text>
+ <text x="47" y="391" fill="#8e9eaf" font-family="DejaVu Sans,sans-serif" font-size="14">ARCH LINUX  /  WAYLAND  /  x86_64</text>
+ <g fill="none" stroke="#18232d" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><rect x="806" y="108" width="287" height="196" rx="19" transform="rotate(-8 950 200)"/><rect x="831" y="133" width="287" height="196" rx="19" fill="#ffb387" transform="rotate(7 970 220)"/><path d="M848 174l263 32M883 165h2m14 2h2m14 2h2M926 218l-32 26 32 26m46 9h51"/></g>
+ <rect x="969" y="354" width="165" height="30" rx="15" fill="#18232d"/><text x="1051" y="374" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="12" font-weight="700" fill="#ffbb94">OWN COMPOSITOR</text>
+ </svg>

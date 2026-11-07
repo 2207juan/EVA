@@ -1,136 +1,84 @@
 1
-00:00:00,850 --> 00:00:09,312
-Meet EVA, an Arch Linux desktop with its own Wayland
-compositor. This is a beta: an evolving desktop, running
+00:00:00,300 --> 00:00:05,107
+EVA: Arch Linux, its own Wayland desktop. Meet the beta.
 
 2
-00:00:09,312 --> 00:00:11,485
-here in one continuous take.
+00:00:05,857 --> 00:00:10,083
+Find apps and files, or switch to the Orbit launcher.
 
 3
-00:00:14,485 --> 00:00:23,513
-Start with the launcher. Browse installed applications or
-search for apps and local files. Choose a classic layout
+00:00:10,833 --> 00:00:15,698
+Prisma brings previews, tabs and everyday file operations
+together.
 
 4
-00:00:23,513 --> 00:00:25,968
-or the circular Orbit launcher.
+00:00:16,449 --> 00:00:20,303
+Super B gathers your open apps in one shelf.
 
 5
-00:00:28,968 --> 00:00:37,435
-Prisma is EVA's file manager. Open folders, preview
-images, work with tabs and choose files from other
+00:00:21,053 --> 00:00:24,444
+Tab shows your windows and virtual desktops at a glance.
 
 6
-00:00:37,435 --> 00:00:41,170
-applications, all through the same interface.
+00:00:25,194 --> 00:00:29,745
+Snap organizes your windows with six ready-made layouts.
 
 7
-00:00:44,170 --> 00:00:51,961
-Super plus B opens the application shelf. See your running
-apps together and switch between them, without filling the
+00:00:30,495 --> 00:00:35,162
+Explore the cover library. These games are demonstration
+entries.
 
 8
-00:00:51,961 --> 00:00:54,491
-dock with duplicate application icons.
+00:00:35,912 --> 00:00:39,210
+Pick your backgrounds by workspace and monitor.
 
 9
-00:00:57,492 --> 00:01:05,185
-Press Tab for the window overview. Move between virtual
-desktops, select a window, and keep different tasks
+00:00:39,960 --> 00:00:43,837
+Video wallpapers work too. This animation comes from NASA.
 
 10
-00:01:05,185 --> 00:01:07,558
-organized across your workspaces.
+00:00:44,588 --> 00:00:48,721
+Add clocks, notes and other widgets to your desktop.
 
 11
-00:01:10,558 --> 00:01:18,673
-Use Super plus Z to arrange windows. Snap offers several
-layouts and checks application size limits before placing
+00:00:49,472 --> 00:00:53,419
+Change colors and switch between light and dark
+appearance.
 
 12
-00:01:18,673 --> 00:01:20,310
-windows in their zones.
+00:00:54,170 --> 00:00:59,069
+Drag bar modules into place. EVA manages the available
+space.
 
 13
-00:01:23,310 --> 00:01:30,244
-Super plus W opens the wallpaper picker. Choose a
-background for each workspace and monitor, with animated
+00:00:59,819 --> 00:01:04,231
+Edit shortcuts and use the keyboard layout you choose.
 
 14
-00:01:30,244 --> 00:01:32,598
-transitions between your selections.
+00:01:04,981 --> 00:01:08,905
+Keep events and reminders in your local calendar.
 
 15
-00:01:36,400 --> 00:01:44,868
-Settings brings the desktop together. Choose light or dark
-appearance, adjust your accent color and explore window
+00:01:09,656 --> 00:01:13,917
+Check live system usage and available hardware sensors.
 
 16
-00:01:44,868 --> 00:01:46,651
-effects directly in EVA.
+00:01:14,667 --> 00:01:18,452
+Control compatible players without leaving the desktop.
 
 17
-00:01:49,651 --> 00:01:57,627
-Make the bar your own. Drag modules into the beginning,
-center or end. The layout keeps zones apart and stops
+00:01:19,202 --> 00:01:23,405
+Care for a desktop companion and visit its habitat.
 
 18
-00:01:57,627 --> 00:01:59,822
-additions when space runs out.
+00:01:24,155 --> 00:01:28,811
+Connect the AI island to your own compatible provider.
 
 19
-00:02:02,822 --> 00:02:09,782
-Keyboard settings shows your configured layout and
-editable shortcuts. Desktop and laptop defaults adapt to
+00:01:29,561 --> 00:01:33,056
+Choose a boot theme visually in Settings.
 
 20
-00:02:09,782 --> 00:02:13,619
-the hardware, while your custom combinations are
-preserved.
-
-21
-00:02:17,049 --> 00:02:24,709
-The system panel keeps CPU, memory, storage and available
-hardware sensors in view. These readings come from the
-
-22
-00:02:24,709 --> 00:02:27,103
-machine running this demonstration.
-
-23
-00:02:30,103 --> 00:02:38,318
-Play local media and control compatible players from the
-desktop. The multimedia panel follows real playback, with
-
-24
-00:02:38,318 --> 00:02:41,272
-artwork, progress and transport controls.
-
-25
-00:02:44,272 --> 00:02:53,976
-Desktop companions add a playful corner to EVA. Care for a
-pet, visit its habitat and use the local interactions
-
-26
-00:02:53,976 --> 00:02:55,882
-without an AI account.
-
-27
-00:02:58,882 --> 00:03:05,693
-The AI island connects to supported providers and
-development agents. Online AI features require your own
-
-28
-00:03:05,693 --> 00:03:09,715
-compatible service. No conversation is simulated in this
-tour.
-
-29
-00:03:13,701 --> 00:03:22,320
-EVA is available for x86 sixty-four PCs, with a graphical
-installer and visual boot-theme settings. Download the
-
-30
-00:03:22,320 --> 00:03:26,322
-beta above and explore the desktop at your own pace.
+00:01:33,806 --> 00:01:41,294
+EVA beta. Your desktop, your rhythm. Download for x86
+sixty-four.

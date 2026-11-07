@@ -13,3 +13,15 @@ Models: https://huggingface.co/rhasspy/piper-voices
 The voice models and development tools are not bundled in the EVA ISO or this repository.
 
 The linked ISO is published independently. The tours show current development and do not certify every beta feature on every machine.
+
+Revision 2: shorter narration and shorter native interactions, captured again at 60 FPS.
+20 chapters in each continuous capture. Frame order and playback speed are unchanged.
+Downloaded video wallpaper and local playback: Spinning Earth with clouds, atmosphere, and night lights.
+NASA Scientific Visualization Studio, https://svs.gsfc.nasa.gov/5570/
+Kel Elkins (USRA), William Putman (NASA/GSFC); Blue Marble data Reto Stockli (NASA/GSFC).
+NASA media use guidelines: https://www.nasa.gov/nasa-brand-center/images-and-media/
+No NASA endorsement is implied.
+Game library demonstration: Portal 2, Left 4 Dead 2, Team Fortress 2 official Steam cover artwork.
+Valve / Steam CDN, https://cdn.akamai.steamstatic.com/steam/apps/{appid}/library_600x900.jpg
+These are demonstration entries only, not installed or launched games. Artwork belongs to its owners.
+The downloaded wallpaper, demo game entries and artwork files are not bundled in the ISO.

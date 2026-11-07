@@ -1,70 +1,80 @@
-<p align="center"><a href="README.md">English</a> · <b>Español</b></p>
+<p align="center"><a href="https://github.com/2207juan/EVA/blob/main/docs/es/README.md">Español</a> &nbsp; / &nbsp; <a href="https://github.com/2207juan/EVA/blob/main/docs/en/README.md">English</a></p>
 
-<img src="assets/design/hero-es.svg" alt="EVA · Beta · x86_64 · Arch Linux con compositor Wayland propio" width="100%"/>
+<img src="assets/design/cover-es.svg" alt="EVA · Tu escritorio. A tu ritmo." width="100%"/>
 
-<p align="center"><a href="https://drive.google.com/drive/folders/1uZRp9SGSDykXUKvbprnLntPWDCimsDnt?usp=sharing"><img src="assets/design/download-es.svg" alt="Descargar ISO para x86_64" width="300" height="52"/></a></p>
+<p align="center"><a href="https://drive.google.com/drive/folders/1uZRp9SGSDykXUKvbprnLntPWDCimsDnt?usp=sharing"><img src="assets/design/get-es.svg" alt="Descargar ISO" width="220"/></a> <a href="https://webdesing-40d1a.web.app/"><img src="assets/design/site-es.svg" alt="Juan Pablo · web" width="220"/></a></p>
+
+<p align="center"><b>BETA</b> &nbsp; · &nbsp; Intel / AMD x86_64 &nbsp; · &nbsp; Arch Linux &nbsp; · &nbsp; BIOS / UEFI</p>
+
+### Mira EVA en movimiento
+
+https://github.com/user-attachments/assets/396e1ee9-1e2c-4071-80c0-358ce2023918
+
+**1:42 · 60 FPS · Una toma a velocidad real.** Escritorio, voz y subtítulos en español.
+
+<details><summary>Vídeo original de EVA</summary>
 
 https://github.com/user-attachments/assets/66bce099-2a7d-4ea7-a75f-3814e7d73b33
 
-<details>
-<summary><b>Recorrido actual del escritorio · 3:29 · sin cortes</b></summary>
-
-https://github.com/user-attachments/assets/08e6ad41-72d6-49a1-9e5c-6924a9172992
-
-<sub>Voz y escritorio en español · subtítulos en español.</sub>
-
 </details>
 
-EVA es una distribución basada en **Arch Linux**, con escritorio y compositor **Wayland propios**. Combina organización de ventanas, personalización y herramientas cotidianas en una interfaz común.
+EVA es una distribución Arch Linux con **compositor Wayland y escritorio propios**. Organiza tu trabajo, cambia la interfaz y ten a mano las herramientas del día a día. **Beta para PC y portátiles x86_64.**
 
-**Está en beta.** La imagen disponible es para **x86_64**, con arranque BIOS/UEFI e instalación gráfica. Las capturas y los recorridos muestran el desarrollo actual; la ISO del enlace puede corresponder a una compilación anterior.
+<p align="center"><a href="https://github.com/2207juan/EVA/blob/main/docs/es/compatibility.md"><img src="assets/design/compat-es.svg" alt="Compatibilidad" width="220"/></a> <a href="https://github.com/2207juan/EVA/blob/main/docs/es/shortcuts.md"><img src="assets/design/keys-es.svg" alt="Todos los atajos" width="220"/></a></p>
 
-## El escritorio
+## 01 / Espacio para tus ideas
 
-Lanzador con búsqueda de aplicaciones y archivos, escritorios virtuales, ventanas en mosaico o flotantes y **Prisma**, el explorador de EVA. La estantería reúne las aplicaciones abiertas sin duplicar sus iconos en el dock.
-
-<table>
-<tr>
-<td width="50%"><img src="assets/previews/es/dock.png" alt="Escritorio y dock" width="100%"/><br/><sub>Escritorio y dock</sub></td>
-<td width="50%"><img src="assets/previews/es/prisma.png" alt="Prisma · archivos y carpetas" width="100%"/><br/><sub>Prisma · archivos y carpetas</sub></td>
-</tr>
-<tr>
-<td width="50%"><img src="assets/previews/es/overview.png" alt="Tab · vista general" width="100%"/><br/><sub>Tab · vista general</sub></td>
-<td width="50%"><img src="assets/previews/es/applications.png" alt="Super+B · aplicaciones abiertas" width="100%"/><br/><sub>Super+B · aplicaciones abiertas</sub></td>
-</tr>
-</table>
-
-## Hazlo tuyo
-
-Modo claro u oscuro, colores, fondos por escritorio y monitor, barra con módulos que puedes arrastrar y atajos editables. La interfaz adapta las opciones disponibles al hardware del equipo.
+**Prisma** para archivos y vistas previas. **Tab** para la vista general. **Super+B** para tus aplicaciones abiertas. **Snap** para organizar ventanas.
 
 <table>
 <tr>
-<td width="50%"><img src="assets/previews/es/settings-appearance.png" alt="Apariencia · colores y efectos" width="100%"/><br/><sub>Apariencia · colores y efectos</sub></td>
-<td width="50%"><img src="assets/previews/es/settings-bar.png" alt="Barra · módulos y distribución" width="100%"/><br/><sub>Barra · módulos y distribución</sub></td>
+<td width="50%"><img src="assets/previews/es/prisma.png" alt="Prisma / archivos y vistas previas" width="100%"/><br/><sub>Prisma / archivos y vistas previas</sub></td>
+<td width="50%"><img src="assets/previews/es/applications.png" alt="Estantería de aplicaciones / Super+B" width="100%"/><br/><sub>Estantería de aplicaciones / Super+B</sub></td>
 </tr>
 <tr>
-<td width="50%"><img src="assets/previews/es/settings-wallpapers.png" alt="Fondos · escritorios y monitores" width="100%"/><br/><sub>Fondos · escritorios y monitores</sub></td>
-<td width="50%"><img src="assets/previews/es/settings-keyboard.png" alt="Teclado · distribución y atajos" width="100%"/><br/><sub>Teclado · distribución y atajos</sub></td>
+<td width="50%"><img src="assets/previews/es/overview.png" alt="Vista general / Tab" width="100%"/><br/><sub>Vista general / Tab</sub></td>
+<td width="50%"><img src="assets/previews/es/snap.png" alt="Snap / distribución de ventanas" width="100%"/><br/><sub>Snap / distribución de ventanas</sub></td>
 </tr>
 </table>
 
-También incluye capturas, grabación, OCR local, controles multimedia, widgets y mascotas. La isla de IA admite proveedores compatibles y agentes de desarrollo; las funciones en línea requieren tu propio servicio.
+## 02 / Cambia de ambiente
 
-## Empieza por aquí
+Fondos estáticos, animados y de vídeo. Un ambiente por escritorio y monitor. Relojes, notas y más widgets donde los necesites.
 
-| Acción | Atajo predeterminado |
-| :-- | :-- |
-| Lanzador | `Super` |
-| Vista general | `Tab` |
-| Aplicaciones abiertas | `Super+B` |
-| Organizar ventanas | `Super+Z` |
-| Prisma / fondos | `Super+P` / `Super+W` |
-| Captura / grabación | `Super+F` / `Super+G` |
-| EVA IA | `Super+I` |
+<img src="assets/previews/es/widgets.png" alt="Fondo de vídeo de NASA con widgets de reloj y notas" width="100%"/>
 
-Super es la tecla Windows. Los atajos se pueden cambiar en **Ajustes → Teclado**.
+## 03 / Haz tuyo cada detalle
 
-Para probar EVA, descarga la ISO, cópiala a un USB con Ventoy y arranca desde él. Desde la sesión Live puedes abrir el instalador gráfico. Después, cambia el tema de arranque desde **Ajustes → Arranque · GRUB**.
+<table>
+<tr>
+<td width="50%"><img src="assets/previews/es/settings-appearance.png" alt="Apariencia / claro, oscuro y color" width="100%"/><br/><sub>Apariencia / claro, oscuro y color</sub></td>
+<td width="50%"><img src="assets/previews/es/settings-bar.png" alt="Barra / arrastra, acomoda y quita" width="100%"/><br/><sub>Barra / arrastra, acomoda y quita</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="assets/previews/es/settings-wallpapers.png" alt="Fondos / escritorio y monitor" width="100%"/><br/><sub>Fondos / escritorio y monitor</sub></td>
+<td width="50%"><img src="assets/previews/es/settings-keyboard.png" alt="Teclado / distribución y atajos" width="100%"/><br/><sub>Teclado / distribución y atajos</sub></td>
+</tr>
+</table>
 
-<sub>Recorridos continuos de una sesión de prueba de EVA, con archivos de demostración y narración sintética local. No muestran una instalación física ni pruebas de rendimiento. Conserva una copia de tus archivos antes de instalar.</sub>
+## 04 / Juega. Crea. Explora.
+
+<table>
+<tr>
+<td width="50%"><img src="assets/previews/es/games.png" alt="Biblioteca de carátulas / entradas de demostración" width="100%"/><br/><sub>Biblioteca de carátulas / entradas de demostración</sub></td>
+<td width="50%"><img src="assets/previews/es/pets.png" alt="Mascotas / cuidado local" width="100%"/><br/><sub>Mascotas / cuidado local</sub></td>
+</tr>
+</table>
+
+**También incluye:** multimedia, monitor del sistema, capturas, grabación, OCR local, calendario, actividades e isla de IA para servicios compatibles y agentes de desarrollo.
+
+## 05 / Elige tu siguiente paso
+
+| Probar EVA | Revisar tu PC | Conocer los controles |
+| :-- | :-- | :-- |
+| [Descargar la beta](https://drive.google.com/drive/folders/1uZRp9SGSDykXUKvbprnLntPWDCimsDnt?usp=sharing) · [Instalación](https://github.com/2207juan/EVA/blob/main/docs/es/installation.md) | [CPU, gráficos y requisitos](https://github.com/2207juan/EVA/blob/main/docs/es/compatibility.md) | [Referencia completa de atajos](https://github.com/2207juan/EVA/blob/main/docs/es/shortcuts.md) |
+
+<hr/>
+
+<p align="center"><a href="https://webdesing-40d1a.web.app/">Juan Pablo · Página personal</a> &nbsp; / &nbsp; <a href="https://github.com/2207juan/EVA/blob/main/docs/es/media.md">Sobre el recorrido y créditos</a></p>
+
+<p align="center"><sub>Vista del desarrollo actual. La descarga puede contener una compilación anterior.</sub></p>
