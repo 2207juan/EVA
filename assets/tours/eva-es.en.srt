@@ -1,84 +1,86 @@
 1
-00:00:00,300 --> 00:00:05,107
-EVA: Arch Linux, its own Wayland desktop. Meet the beta.
+00:00:00,301 --> 00:00:06,013
+This is Eva. An Arch Linux distro with a desktop of its
+own.
 
 2
-00:00:05,857 --> 00:00:10,083
-Find apps and files, or switch to the Orbit launcher.
+00:00:06,763 --> 00:00:10,987
+Press Super to find your apps and files in one place.
 
 3
-00:00:10,833 --> 00:00:15,698
-Prisma brings previews, tabs and everyday file operations
-together.
+00:00:11,737 --> 00:00:16,249
+Prisma keeps your files close, with previews and tabs.
 
 4
-00:00:16,449 --> 00:00:20,303
-Super B gathers your open apps in one shelf.
+00:00:16,999 --> 00:00:20,791
+Super B brings your open apps together.
 
 5
-00:00:21,053 --> 00:00:24,444
-Tab shows your windows and virtual desktops at a glance.
+00:00:21,541 --> 00:00:25,357
+With Tab, you can see your windows and change workspaces.
 
 6
-00:00:25,194 --> 00:00:29,745
-Snap organizes your windows with six ready-made layouts.
+00:00:26,107 --> 00:00:29,996
+Choose a layout and give each window its place.
 
 7
-00:00:30,495 --> 00:00:35,162
-Explore the cover library. These games are demonstration
-entries.
+00:00:30,746 --> 00:00:37,754
+Here is the game library. Browse the covers with your
+mouse or the arrow keys.
 
 8
-00:00:35,912 --> 00:00:39,210
-Pick your backgrounds by workspace and monitor.
+00:00:38,504 --> 00:00:42,776
+Pick a different background for each screen or workspace.
 
 9
-00:00:39,960 --> 00:00:43,837
-Video wallpapers work too. This animation comes from NASA.
+00:00:43,526 --> 00:00:48,902
+Prefer something that moves? You can use a video as your
+wallpaper.
 
 10
-00:00:44,588 --> 00:00:48,721
-Add clocks, notes and other widgets to your desktop.
+00:00:49,652 --> 00:00:53,372
+Add a clock or leave yourself a note on the desktop.
 
 11
-00:00:49,472 --> 00:00:53,419
-Change colors and switch between light and dark
-appearance.
+00:00:54,122 --> 00:00:57,698
+Light or dark, with the colors you like.
 
 12
-00:00:54,170 --> 00:00:59,069
-Drag bar modules into place. EVA manages the available
-space.
+00:00:58,448 --> 00:01:02,624
+Drag the bar modules into place and make room for what you
+use.
 
 13
-00:00:59,819 --> 00:01:04,231
-Edit shortcuts and use the keyboard layout you choose.
+00:01:03,375 --> 00:01:08,583
+Your keyboard layout and shortcuts are here, ready to
+change.
 
 14
-00:01:04,981 --> 00:01:08,905
-Keep events and reminders in your local calendar.
+00:01:09,333 --> 00:01:13,029
+Keep your events and reminders together in the calendar.
 
 15
-00:01:09,656 --> 00:01:13,917
-Check live system usage and available hardware sensors.
+00:01:13,779 --> 00:01:17,163
+Take a look at how your computer is running.
 
 16
-00:01:14,667 --> 00:01:18,452
-Control compatible players without leaving the desktop.
+00:01:17,913 --> 00:01:21,417
+Control your music and video from the desktop.
 
 17
-00:01:19,202 --> 00:01:23,405
-Care for a desktop companion and visit its habitat.
+00:01:22,167 --> 00:01:27,615
+There is room for a little company, too. Meet the desktop
+pets.
 
 18
-00:01:24,155 --> 00:01:28,811
-Connect the AI island to your own compatible provider.
+00:01:28,365 --> 00:01:32,733
+Connect your AI provider and keep the chat within reach.
 
 19
-00:01:29,561 --> 00:01:33,056
-Choose a boot theme visually in Settings.
+00:01:33,484 --> 00:01:37,660
+You can even choose how Eva looks when your computer
+starts.
 
 20
-00:01:33,806 --> 00:01:41,294
-EVA beta. Your desktop, your rhythm. Download for x86
-sixty-four.
+00:01:38,410 --> 00:01:42,826
+That is Eva. Download the beta and take a look around.

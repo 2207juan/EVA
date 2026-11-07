@@ -1,91 +1,90 @@
 1
-00:00:00,300 --> 00:00:04,526
-EVA: Arch Linux, escritorio Wayland propio. Conoce la
-beta.
+00:00:00,300 --> 00:00:05,484
+Esto es Eva. Una distro basada en Arch Linux, con su
+propio escritorio.
 
 2
-00:00:05,277 --> 00:00:09,236
-Busca aplicaciones y archivos, o usa el lanzador Órbita.
+00:00:06,235 --> 00:00:10,003
+Con Super encuentras tus programas y archivos en un mismo
+lugar.
 
 3
-00:00:09,986 --> 00:00:14,363
-Prisma reúne vistas previas, pestañas y operaciones con
-archivos.
+00:00:10,753 --> 00:00:14,785
+En Prisma tienes tus archivos, con vistas previas y
+pestañas.
 
 4
-00:00:15,113 --> 00:00:17,981
-Super B reúne las aplicaciones abiertas en una estantería.
+00:00:15,536 --> 00:00:18,584
+Super B reúne las aplicaciones que tienes abiertas.
 
 5
-00:00:18,731 --> 00:00:22,504
-Tab muestra las ventanas y los escritorios de un vistazo.
+00:00:19,334 --> 00:00:23,414
+Con Tab puedes ver tus ventanas y cambiar de escritorio.
 
 6
-00:00:23,254 --> 00:00:26,900
-Snap organiza tus ventanas con seis distribuciones listas
-para usar.
+00:00:24,164 --> 00:00:27,356
+Elige una distribución y dale su espacio a cada ventana.
 
 7
-00:00:27,650 --> 00:00:31,539
-Explora la biblioteca de carátulas. Estos juegos son de
-demostración.
+00:00:28,106 --> 00:00:33,842
+Y esta es la biblioteca de juegos. Puedes recorrer las
+carátulas con el ratón o las flechas del teclado.
 
 8
-00:00:32,289 --> 00:00:35,064
-Elige los fondos por escritorio y por monitor.
-
-9
-00:00:35,814 --> 00:00:39,587
-También hay fondos de vídeo. Esta animación procede de
-NASA.
-
-10
-00:00:40,337 --> 00:00:43,205
-Añade relojes, notas y otros widgets al escritorio.
-
-11
-00:00:43,955 --> 00:00:47,682
-Cambia los colores y alterna entre apariencia clara y
-oscura.
-
-12
-00:00:48,432 --> 00:00:52,937
-Arrastra los módulos de la barra. EVA administra el
-espacio disponible.
-
-13
-00:00:53,687 --> 00:00:57,379
-Edita los atajos y usa la distribución de teclado que
-elijas.
-
-14
-00:00:58,129 --> 00:01:01,136
-Organiza eventos y recordatorios en tu calendario local.
-
-15
-00:01:01,887 --> 00:01:05,602
-Consulta el consumo real del sistema y sus sensores
-disponibles.
-
-16
-00:01:06,352 --> 00:01:09,452
-Controla los reproductores compatibles desde el
+00:00:34,925 --> 00:00:38,765
+Puedes elegir un fondo distinto para cada pantalla o
 escritorio.
 
+9
+00:00:39,516 --> 00:00:44,652
+¿Prefieres algo con movimiento? También puedes usar un
+vídeo como fondo.
+
+10
+00:00:45,402 --> 00:00:48,834
+Añade un reloj o deja una nota en el escritorio.
+
+11
+00:00:49,584 --> 00:00:52,776
+Claro u oscuro, y con los colores que te gusten.
+
+12
+00:00:53,526 --> 00:00:57,798
+Arrastra los módulos de la barra y deja a mano lo que
+uses.
+
+13
+00:00:58,550 --> 00:01:02,750
+Aquí tienes la distribución del teclado y los atajos,
+listos para cambiarlos.
+
+14
+00:01:03,500 --> 00:01:07,052
+Guarda tus eventos y recordatorios en el calendario.
+
+15
+00:01:07,802 --> 00:01:10,730
+Y aquí puedes ver cómo está funcionando tu equipo.
+
+16
+00:01:11,480 --> 00:01:14,744
+Controla la música y el vídeo desde el escritorio.
+
 17
-00:01:10,202 --> 00:01:13,499
-Cuida a tu mascota del escritorio y visita su hábitat.
+00:01:15,496 --> 00:01:20,824
+También hay espacio para un poco de compañía. Estas son
+las mascotas.
 
 18
-00:01:14,249 --> 00:01:17,442
-Conecta la isla de inteligencia artificial a tu proveedor
-compatible.
+00:01:21,574 --> 00:01:25,366
+Conecta tu proveedor de inteligencia artificial y ten el
+chat a mano.
 
 19
-00:01:18,193 --> 00:01:20,759
-Elige visualmente un tema de arranque desde Ajustes.
+00:01:26,116 --> 00:01:30,004
+Incluso puedes elegir cómo se ve Eva cuando arranca el
+equipo.
 
 20
-00:01:21,510 --> 00:01:26,560
-EVA beta. Tu escritorio, a tu ritmo. Descarga para x86 de
-sesenta y cuatro bits.
+00:01:30,755 --> 00:01:35,387
+Esto es Eva. Descarga la beta y dale una vuelta.

@@ -1,3 +1,11 @@
+# 2026-11-06 · Simplified presentation / Presentación simplificada
+
+- Original EVA video visible first, followed by a new continuous desktop tour.
+- New Linux distro header, one navigation row and screenshot grids; removed repeated links and production descriptions.
+- New neural narration in Spanish and English; game-library demonstration expanded to 47 covers.
+
+---
+
 # 2026-11-06 · New visual layout / Nuevo diseño visual
 
 - New typographic cover, warm accent palette, feature sections and current screenshots.

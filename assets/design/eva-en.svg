@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-label="EVA · LINUX DISTRO · Arch Linux · Wayland · Beta · x86_64">
+ <defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10101c"/><stop offset=".52" stop-color="#151127"/><stop offset="1" stop-color="#0c1720"/></linearGradient>
+ <linearGradient id="text" x1="0" x2="1" y1=".5" y2=".5"><stop stop-color="#ece6ff"/><stop offset=".53" stop-color="#c7b7ff"/><stop offset="1" stop-color="#8edfe9"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#8e6bdb" stop-opacity=".21"/><stop offset="1" stop-color="#8e6bdb" stop-opacity="0"/></radialGradient>
+ </defs>
+ <rect width="1200" height="350" rx="18" fill="url(#bg)"/>
+ <ellipse cx="600" cy="176" rx="390" ry="165" fill="url(#glow)"/>
+ <g fill="#b9a9e9" opacity=".35"><circle cx="79" cy="67" r="1.2"/><circle cx="179" cy="210" r="1"/><circle cx="308" cy="48" r="1"/><circle cx="1008" cy="71" r="1.4"/><circle cx="1116" cy="236" r="1"/><circle cx="901" cy="258" r="1.2"/><circle cx="419" cy="285" r="1"/></g>
+ <text x="600" y="206" text-anchor="middle" fill="url(#text)" font-family="DejaVu Sans,sans-serif" font-size="174" font-weight="700" letter-spacing="19">EVA</text>
+ <text x="600" y="257" text-anchor="middle" fill="#d4cbee" font-family="DejaVu Sans,sans-serif" font-size="23" font-weight="500" letter-spacing="8">LINUX DISTRO</text>
+ <text x="600" y="309" text-anchor="middle" fill="#929bb4" font-family="DejaVu Sans,sans-serif" font-size="13" letter-spacing="1.5">ARCH LINUX  ·  WAYLAND  ·  BETA  ·  x86_64</text>
+ <g fill="none" stroke-width="1"><path d="M0 302Q300 239 600 321T1200 297" stroke="#ae9cdb" opacity=".10"/><path d="M0 312Q300 249 600 331T1200 307" stroke="#88ccdf" opacity=".12"/></g>
+ </svg>
