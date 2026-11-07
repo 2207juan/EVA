@@ -1,3 +1,10 @@
+# 2026-11-07 · Video cards / Tarjetas de vídeo
+
+- Original EVA.png logo, plain section titles, Preview and Game Center in both languages.
+- Clickable video cards open the MP4 files with their audio; removed silent animated fallbacks.
+
+---
+
 # 2026-11-07 · Mobile presentation / Presentación móvil
 
 - New outlined typography, dark navigation buttons and violet, cyan and rose artwork.
