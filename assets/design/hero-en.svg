@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="EVA · A desktop to make your own. · Beta · x86_64">
+ <defs><linearGradient id="surface" x2="1" y2=".6"><stop stop-color="#101825"/><stop offset="1" stop-color="#0b1720"/></linearGradient><linearGradient id="accent"><stop stop-color="#8debf2"/><stop offset="1" stop-color="#b2a2ff"/></linearGradient><radialGradient id="glow"><stop stop-color="#7b8eda" stop-opacity=".24"/><stop offset="1" stop-color="#7b8eda" stop-opacity="0"/></radialGradient></defs>
+ <rect x="1" y="1" width="1198" height="238" rx="20" fill="url(#surface)" stroke="#2a3c49"/>
+ <circle cx="1042" cy="120" r="165" fill="url(#glow)"/>
+ <g fill="none" stroke="url(#accent)"><ellipse cx="1050" cy="116" rx="119" ry="45" transform="rotate(-32 1050 116)" opacity=".65"/><circle cx="1050" cy="116" r="67" opacity=".25"/><path d="M942 185h211" opacity=".15"/></g>
+ <rect x="38" y="34" width="64" height="25" rx="12" fill="#89e5e9" fill-opacity=".09" stroke="#8debf2" stroke-opacity=".3"/>
+ <text x="70" y="51" font-family="DejaVu Sans, sans-serif" font-size="11" font-weight="600" text-anchor="middle" fill="#a3edf0" letter-spacing="1">BETA</text>
+ <text x="117" y="51" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#96acbc">x86_64 · BIOS / UEFI</text>
+ <text x="35" y="135" font-family="DejaVu Sans, sans-serif" font-size="76" font-weight="700" fill="#f1f7fc" letter-spacing="3">EVA</text>
+ <text x="238" y="123" font-family="DejaVu Sans, sans-serif" font-size="26" fill="#d9eaf3">A desktop to make your own.</text>
+ <path d="M39 160h765" stroke="#30444f"/>
+ <text x="40" y="195" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#a3b9c6">Arch Linux · Our own Wayland compositor</text>
+ </svg>

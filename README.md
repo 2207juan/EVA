@@ -1,112 +1,70 @@
-<p align="center"><a href="README.md">English</a> · <a href="README.es.md">Español</a></p>
+<p align="center"><b>English</b> · <a href="README.es.md">Español</a></p>
 
-![Eva · VERSION 1.0 · BETA](assets/banner.svg)
+<img src="assets/design/hero-en.svg" alt="EVA · Beta · x86_64 · Arch Linux with its own Wayland compositor" width="100%"/>
 
-**An Arch Linux distribution with its own Wayland compositor.**
-
-Version 1.0 · Beta · [V4 · 2026-10-16](CHANGELOG.md). There may be bugs. [Help Eva grow by reporting them.](https://github.com/2207juan/EVA/issues/new/choose)
+<p align="center"><a href="https://drive.google.com/drive/folders/1uZRp9SGSDykXUKvbprnLntPWDCimsDnt?usp=sharing"><img src="assets/design/download-en.svg" alt="Download ISO for x86_64" width="300" height="52"/></a></p>
 
 https://github.com/user-attachments/assets/66bce099-2a7d-4ea7-a75f-3814e7d73b33
 
-<p align="center">
-<a href="https://drive.google.com/drive/folders/1uZRp9SGSDykXUKvbprnLntPWDCimsDnt?usp=sharing"><img src="assets/download.svg" alt="Download ISO" /></a>
-<a href="#gallery"><img src="assets/preview.svg" alt="Gallery" /></a>
-<a href="https://github.com/2207juan/EVA/issues/new/choose"><img src="assets/issues.svg" alt="Report a bug" /></a>
-<a href="https://www.instagram.com/eva.frik"><img src="assets/instagram.svg" alt="Follow us" /></a>
-</p>
+<details>
+<summary><b>Current desktop tour · 3:29 · one continuous take</b></summary>
 
-<a id="gallery"></a>
+https://github.com/user-attachments/assets/e9d5268e-ccf4-4f69-a276-cf3d2d52bf1d
 
-## Desktop
+<sub>English narration and desktop · Spanish subtitles.</sub>
 
-![Desktop · medallions](assets/previews/en/desktop-files.png)
+</details>
 
-| Dock | Launcher |
+EVA is an **Arch Linux** distribution with its own desktop and **Wayland compositor**. Window organization, personalization and everyday tools share one desktop interface.
+
+**Currently in beta.** The available image is for **x86_64**, with BIOS/UEFI boot and a graphical installer. Screenshots and tours show current development; the linked ISO may be an earlier build.
+
+## The desktop
+
+A launcher that searches apps and local files, virtual desktops, tiled or floating windows, and **Prisma**, EVA's file manager. The application shelf brings open apps together without duplicating their icons in the dock.
+
+<table>
+<tr>
+<td width="50%"><img src="assets/previews/en/dock.png" alt="Desktop and dock" width="100%"/><br/><sub>Desktop and dock</sub></td>
+<td width="50%"><img src="assets/previews/en/prisma.png" alt="Prisma · files and folders" width="100%"/><br/><sub>Prisma · files and folders</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="assets/previews/en/overview.png" alt="Tab · window overview" width="100%"/><br/><sub>Tab · window overview</sub></td>
+<td width="50%"><img src="assets/previews/en/applications.png" alt="Super+B · open applications" width="100%"/><br/><sub>Super+B · open applications</sub></td>
+</tr>
+</table>
+
+## Make it yours
+
+Light or dark appearance, accent colors, backgrounds per workspace and monitor, a bar with draggable modules, and editable shortcuts. Available options adapt to the machine's hardware.
+
+<table>
+<tr>
+<td width="50%"><img src="assets/previews/en/settings-appearance.png" alt="Appearance · colors and effects" width="100%"/><br/><sub>Appearance · colors and effects</sub></td>
+<td width="50%"><img src="assets/previews/en/settings-bar.png" alt="Bar · modules and layout" width="100%"/><br/><sub>Bar · modules and layout</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="assets/previews/en/settings-wallpapers.png" alt="Wallpapers · workspaces and monitors" width="100%"/><br/><sub>Wallpapers · workspaces and monitors</sub></td>
+<td width="50%"><img src="assets/previews/en/settings-keyboard.png" alt="Keyboard · layout and shortcuts" width="100%"/><br/><sub>Keyboard · layout and shortcuts</sub></td>
+</tr>
+</table>
+
+Screen capture, recording, local OCR, media controls, widgets and desktop pets are included. The AI island supports compatible providers and development agents; online AI features require your own service.
+
+## Start here
+
+| Action | Default shortcut |
 | :-- | :-- |
-| ![Dock](assets/previews/en/dock.png) | ![Launcher](assets/previews/en/launcher-orbit.png) |
-| **Appearance** | **Bubbles** |
-| ![Appearance](assets/previews/en/appearance-dark.png) | ![Bubbles](assets/previews/en/workspace-bubbles.png) |
+| Launcher | `Super` |
+| Window overview | `Tab` |
+| Open applications | `Super+B` |
+| Arrange windows | `Super+Z` |
+| Prisma / wallpapers | `Super+P` / `Super+W` |
+| Screenshot / recording | `Super+F` / `Super+G` |
+| EVA AI | `Super+I` |
 
+Super is the Windows key. Change shortcuts in **Settings → Keyboard**.
 
-**TAB**
+To try EVA, download the ISO, copy it to a Ventoy USB and boot from it. Open the graphical installer from the Live session. After installation, choose a boot theme in **Settings → Boot · GRUB**.
 
-![TAB](assets/previews/en/tab-overview.png)
-
-## Windows
-
-| Tiled | Floating |
-| :-- | :-- |
-| ![Tiled](assets/previews/en/windows-tiled.png) | ![Floating](assets/previews/en/windows-floating.png) |
-
-
-| Glitch RGB | Lamp |
-| :-- | :-- |
-| ![Glitch RGB](assets/previews/en/glitch.gif) | ![Lamp](assets/previews/en/lamp.gif) |
-
-**Tilt**
-
-![Tilt](assets/previews/en/tilt.gif)
-
-## Personalization
-
-| Cursor glitch | Cursor trail |
-| :-- | :-- |
-| ![Cursor glitch](assets/previews/cursor-glitch.gif) | ![Cursor trail](assets/previews/cursor-trail.gif) |
-
-[Glitch video](assets/previews/cursor-glitch.mp4) · [Trail video](assets/previews/cursor-trail.mp4) · Recorded in EVA.
-
-![AI · Super + I](assets/previews/en/ai-island.png)
-
-| Companions · Super + I | Pet habitat |
-| :-- | :-- |
-| ![Companions · Super + I](assets/previews/en/ai-pets.png) | ![Pet habitat](assets/previews/en/pet-home.png) |
-
-
-## System
-
-![Dashboard](assets/previews/en/dashboard.png)
-
-| Prisma | Multimedia |
-| :-- | :-- |
-| ![Prisma](assets/previews/en/prisma.png) | ![Multimedia](assets/previews/en/multimedia.png) |
-
-
-| Wallpapers | Volume |
-| :-- | :-- |
-| ![Image and video wallpapers](assets/previews/en/wallpaper-transition.gif) | ![Volume](assets/previews/en/volume.gif) |
-
-
-## Widgets
-
-| Weather | System monitor |
-| :-- | :-- |
-| ![Weather](assets/previews/en/weather.png) | ![System monitor](assets/previews/en/system.png) |
-| **Game library** | **Gaming · Marvel Rivals** |
-| ![Game library](assets/previews/en/game-center.png) | ![Gaming · Marvel Rivals](assets/previews/en/gaming-dashboard.png) |
-
-
-<sub>Library preview: 12 example Steam covers; no games installed or launched for this capture. Gaming demo: simulated metrics.</sub>
-
-## Install
-
-**[Download Eva ISO](https://drive.google.com/drive/folders/1uZRp9SGSDykXUKvbprnLntPWDCimsDnt?usp=sharing)** · x86_64 · BIOS / UEFI
-
-<sub>These V4 previews show changes awaiting the next ISO build.</sub>
-
-1. Download the `.iso` from Drive.
-2. Copy it to a Ventoy USB and boot from it.
-3. Try Eva, then open **Install Eva** to install.
-
-<sub>Back up your files before changing partitions.</sub>
-
-## GRUB
-
-![Eva](assets/previews/grub-eva.png)
-
-| Evacraft | Netrunner |
-| :-- | :-- |
-| ![Evacraft](assets/previews/grub-evacraft.png) | ![Netrunner](assets/previews/grub-netrunner.png) |
-
----
-
-[Report a bug](https://github.com/2207juan/EVA/issues/new/choose) · [Instagram](https://www.instagram.com/eva.frik)
+<sub>Continuous recordings of an EVA test session, with demonstration files and local synthetic narration. They do not show a physical installation or performance benchmarks. Back up your files before installing. The English tour includes Spanish subtitles.</sub>

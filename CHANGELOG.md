@@ -1,3 +1,25 @@
+# 2026-11-06 · Presentation refresh / Nueva presentación
+
+## English
+
+- Shorter bilingual presentation with the ISO download above the original welcome video.
+- Explicit beta and x86_64 information; current screenshots arranged in two-by-two grids.
+- New continuous desktop tours in English and Spanish, with local synthetic narration and Spanish subtitles.
+- Updated shortcuts: Super+B opens the application shelf; keyboard settings is a separate page.
+- Removed the old social/gallery navigation and outdated Game Library and simulated gaming-metrics previews.
+- The downloadable ISO remains on the existing download page. These presentation updates do not publish or replace an ISO.
+
+## Español
+
+- Presentación bilingüe más breve, con la descarga de la ISO por encima del vídeo original de bienvenida.
+- Estado beta y arquitectura x86_64 visibles; capturas actuales organizadas en cuadrículas de dos por dos.
+- Nuevos recorridos continuos en inglés y español, con narración sintética local y subtítulos en español.
+- Atajos actualizados: Super+B abre la estantería de aplicaciones; Teclado es una página distinta.
+- Retirada la navegación social/galería y las vistas antiguas de la biblioteca y las métricas de juegos simuladas.
+- La ISO sigue en la página de descarga existente. Esta actualización de la presentación no publica ni sustituye una ISO.
+
+---
+
 # V4 · 2026-10-16
 
 ## English

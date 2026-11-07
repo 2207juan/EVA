@@ -1,0 +1,15 @@
+EVA desktop tours / Recorridos de escritorio EVA
+Recorded from the EVA source desktop in a disposable test session on 2026-11-06 (America/Santiago).
+Each language uses one continuous screen recording. Encoding, narration and subtitles do not change the order or speed of the desktop footage.
+Demonstration files and a private profile are used; no personal documents, API credentials or real conversations are recorded.
+Hardware readings are the host machine's live readings, not benchmark results.
+Local video playback is routed to MPRIS through a small test adapter; no game execution or AI response is simulated.
+
+Free production tools: wlroots / EVA, Quickshell, grim, wf-recorder, FFmpeg, Piper.
+Synthetic narration, generated locally with Piper (https://github.com/OHF-Voice/piper1-gpl).
+English voice: en_US-ljspeech-medium, based on LJ Speech (public-domain dataset).
+Spanish voice: es_MX-ald-medium, based on Ald Mexican Spanish (Unlicense dataset).
+Models: https://huggingface.co/rhasspy/piper-voices
+The voice models and development tools are not bundled in the EVA ISO or this repository.
+
+The linked ISO is published independently. The tours show current development and do not certify every beta feature on every machine.

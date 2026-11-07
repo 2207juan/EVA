@@ -1,0 +1,135 @@
+1
+00:00:00,850 --> 00:00:08,386
+Conoce EVA: un escritorio basado en Arch Linux, con
+compositor Wayland propio. Está en beta. Este recorrido
+
+2
+00:00:08,386 --> 00:00:11,485
+muestra una sesión real, grabada sin cortes.
+
+3
+00:00:14,485 --> 00:00:22,021
+Empieza por el lanzador. Explora las aplicaciones
+instaladas o busca programas y archivos locales. Puedes
+
+4
+00:00:22,021 --> 00:00:25,968
+elegir el diseño clásico o el lanzador circular Órbita.
+
+5
+00:00:28,968 --> 00:00:36,539
+Prisma es el explorador de EVA. Abre carpetas,
+previsualiza imágenes, trabaja con pestañas y selecciona
+
+6
+00:00:36,539 --> 00:00:41,170
+archivos desde otras aplicaciones, con una interfaz
+compartida.
+
+7
+00:00:44,170 --> 00:00:52,529
+Super más B abre la estantería de aplicaciones. Reúne las
+ventanas abiertas para cambiar entre ellas, sin llenar el
+
+8
+00:00:52,529 --> 00:00:54,491
+dock con iconos duplicados.
+
+9
+00:00:57,492 --> 00:01:04,518
+Pulsa Tab para ver las ventanas y los escritorios
+virtuales. Cambia de espacio, selecciona una ventana y
+
+10
+00:01:04,518 --> 00:01:07,558
+organiza tus tareas en distintos escritorios.
+
+11
+00:01:10,558 --> 00:01:17,839
+Usa Super más Z para organizar ventanas. Snap ofrece
+varias distribuciones y comprueba los tamaños mínimos de
+
+12
+00:01:17,839 --> 00:01:20,310
+las aplicaciones antes de colocarlas.
+
+13
+00:01:23,310 --> 00:01:31,251
+Super más W abre el selector de fondos. Elige un fondo
+para cada escritorio y monitor, con transiciones animadas
+
+14
+00:01:31,251 --> 00:01:32,598
+entre las imágenes.
+
+15
+00:01:36,400 --> 00:01:44,485
+Ajustes reúne la configuración del escritorio. Elige el
+modo claro u oscuro, cambia el color de acento y explora
+
+16
+00:01:44,485 --> 00:01:46,651
+los efectos de ventana de EVA.
+
+17
+00:01:49,651 --> 00:01:57,197
+Personaliza la barra arrastrando módulos a Inicio, Centro
+o Fin. Las zonas se acomodan sin superponerse y se limita
+
+18
+00:01:57,197 --> 00:01:59,822
+la cantidad según el espacio disponible.
+
+19
+00:02:02,822 --> 00:02:10,064
+Teclado muestra tu distribución configurada y los atajos
+editables. Los valores de PC y portátil se adaptan al
+
+20
+00:02:10,064 --> 00:02:13,619
+hardware y conservan tus combinaciones personalizadas.
+
+21
+00:02:17,049 --> 00:02:24,573
+El panel de sistema reúne CPU, memoria, almacenamiento y
+los sensores disponibles. Estas lecturas proceden del
+
+22
+00:02:24,573 --> 00:02:27,103
+equipo que ejecuta esta demostración.
+
+23
+00:02:30,103 --> 00:02:37,527
+Reproduce contenido local y controla los reproductores
+compatibles desde el escritorio. El panel multimedia sigue
+
+24
+00:02:37,527 --> 00:02:41,272
+la reproducción real, con carátula, progreso y controles.
+
+25
+00:02:44,272 --> 00:02:52,231
+Las mascotas añaden un rincón de juego a EVA. Cuida a tu
+compañera, visita su hábitat y usa las interacciones
+
+26
+00:02:52,231 --> 00:02:55,882
+locales sin una cuenta de inteligencia artificial.
+
+27
+00:02:58,882 --> 00:03:06,392
+La isla de IA conecta proveedores compatibles y agentes de
+desarrollo. Sus funciones en línea requieren tu propio
+
+28
+00:03:06,392 --> 00:03:09,715
+servicio. Este recorrido no simula conversaciones.
+
+29
+00:03:13,701 --> 00:03:22,168
+EVA está disponible para equipos x86 de 64 bits, con
+instalador gráfico y temas de arranque configurables.
+
+30
+00:03:22,168 --> 00:03:26,322
+Descarga la beta y explora el escritorio a tu ritmo.
