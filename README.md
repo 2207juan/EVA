@@ -4,11 +4,11 @@
 
 <p align="center"><a href="https://drive.google.com/drive/folders/1uZRp9SGSDykXUKvbprnLntPWDCimsDnt?usp=sharing"><img src="assets/design/nav-iso-es.svg" alt="Descargar ISO" width="138" height="46"/></a> <a href="https://github.com/2207juan/EVA/blob/main/docs/es/compatibility.md"><img src="assets/design/nav-pc-es.svg" alt="Tu PC" width="92" height="46"/></a> <a href="https://github.com/2207juan/EVA/blob/main/docs/es/installation.md"><img src="assets/design/nav-install-es.svg" alt="Instalar" width="112" height="46"/></a> <a href="https://github.com/2207juan/EVA/blob/main/docs/es/shortcuts.md"><img src="assets/design/nav-keys-es.svg" alt="Atajos" width="104" height="46"/></a> <a href="https://webdesing-40d1a.web.app/"><img src="assets/design/nav-web-es.svg" alt="Web" width="72" height="46"/></a></p>
 
-[![EVA · vídeo original](assets/design/video-original-es.svg)](https://github.com/2207juan/EVA/raw/refs/heads/main/assets/previews/eva-welcome.mp4)
+[![EVA · vídeo original](assets/design/video-original-es.svg)](https://2207juan.github.io/EVA/preview/?video=original&lang=es)
 
 <img src="assets/design/section-tour-es.svg" alt="Preview" width="100%"/>
 
-[![EVA · Preview](assets/design/video-preview-es.svg)](https://github.com/2207juan/EVA/raw/refs/heads/main/assets/tours/eva-es.mp4)
+[![EVA · Preview](assets/design/video-preview-es.svg)](https://2207juan.github.io/EVA/preview/?video=preview&lang=es)
 
 <img src="assets/design/section-desktop-es.svg" alt="Escritorio" width="100%"/>
 

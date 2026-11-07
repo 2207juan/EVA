@@ -1,3 +1,10 @@
+# 2026-11-07 · Streaming preview / Reproductor de vídeo
+
+- Eva-tux.webp below Distro Linux, keeping the dark header.
+- Video cards open a bilingual player with sound, seeking and fullscreen through GitHub Pages.
+
+---
+
 # 2026-11-07 · Video cards / Tarjetas de vídeo
 
 - Original EVA.png logo, plain section titles, Preview and Game Center in both languages.

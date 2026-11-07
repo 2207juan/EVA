@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="dark">
+<title>EVA — Preview</title>
+<style>
+:root{color-scheme:dark;font-family:system-ui,sans-serif;background:#0d1117;color:#e6edf3}*{box-sizing:border-box}body{margin:0;min-height:100svh;display:grid;place-items:center;padding:clamp(16px,4vw,48px)}main{width:min(1100px,100%)}header{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-bottom:24px}h1{font-size:clamp(24px,4vw,36px);margin:0;font-weight:600}nav{display:flex;align-items:center;gap:16px}a{color:#c9b1ed;text-decoration:none}a:hover{text-decoration:underline}a:focus-visible{outline:2px solid #8debf2;outline-offset:5px;border-radius:3px}video{display:block;width:100%;aspect-ratio:16/9;max-height:80svh;background:#05070a;border:1px solid #303844;border-radius:14px}#error{line-height:1.6;color:#d2c6e3}#error[hidden]{display:none}
+</style>
+</head>
+<body>
+<main>
+<header><h1 id="title">EVA — Preview</h1><nav aria-label="Navegación"><a id="language" href="?lang=en">English</a><a href="https://github.com/2207juan/EVA">GitHub ↗</a></nav></header>
+<video id="video" controls playsinline preload="metadata" aria-label="EVA Preview"></video>
+<p id="error" hidden></p>
+<noscript><p><a href="../assets/previews/eva-welcome.mp4">EVA</a> · <a href="../assets/tours/eva-es.mp4">Preview — Español</a> · <a href="../assets/tours/eva-en.mp4">Preview — English</a></p></noscript>
+</main>
+<script>
+const params = new URLSearchParams(location.search);
+const lang = params.get('lang') === 'en' ? 'en' : 'es';
+const original = params.get('video') === 'original';
+const video = document.getElementById('video');
+const title = original ? 'EVA' : 'EVA — Preview';
+document.documentElement.lang = lang;
+document.title = title;
+document.getElementById('title').textContent = title;
+document.querySelector('nav').ariaLabel = lang === 'en' ? 'Navigation' : 'Navegación';
+video.ariaLabel = title;
+video.poster = 'posters/' + (original ? 'original' : lang) + '.jpg';
+video.src = original ? '../assets/previews/eva-welcome.mp4' : '../assets/tours/eva-' + lang + '.mp4';
+const language = document.getElementById('language');
+language.textContent = lang === 'en' ? 'Español' : 'English';
+language.href = '?video=' + (original ? 'original' : 'preview') + '&lang=' + (lang === 'en' ? 'es' : 'en');
+video.addEventListener('error', () => {
+ const error = document.getElementById('error');
+ error.textContent = lang === 'en' ? 'The video could not be loaded. Check your connection and reload this page.' : 'No se pudo cargar el vídeo. Comprueba la conexión y vuelve a abrir esta página.';
+ error.hidden = false;
+});
+</script>
+</body>
+</html>
