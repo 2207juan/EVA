@@ -1,16 +1,16 @@
 <p align="center"><a href="https://github.com/2207juan/EVA/blob/main/docs/es/README.md">Español</a> &nbsp; · &nbsp; <a href="https://github.com/2207juan/EVA/blob/main/docs/en/README.md">English</a></p>
 
-<img src="assets/design/eva-en.svg" alt="EVA · LINUX DISTRO · Arch Linux · Wayland · Beta · x86_64" width="100%"/>
+<img src="assets/design/cover-en.svg" alt="EVA · Linux distro · Beta · x86_64" width="100%"/>
 
-<p align="center"><a href="https://drive.google.com/drive/folders/1uZRp9SGSDykXUKvbprnLntPWDCimsDnt?usp=sharing"><b>↓ Download ISO</b></a> &nbsp; · &nbsp; <a href="https://github.com/2207juan/EVA/blob/main/docs/en/compatibility.md">Your PC</a> &nbsp; · &nbsp; <a href="https://github.com/2207juan/EVA/blob/main/docs/en/installation.md">Install</a> &nbsp; · &nbsp; <a href="https://github.com/2207juan/EVA/blob/main/docs/en/shortcuts.md">Shortcuts</a> &nbsp; · &nbsp; <a href="https://webdesing-40d1a.web.app/">Web</a></p>
+<p align="center"><a href="https://drive.google.com/drive/folders/1uZRp9SGSDykXUKvbprnLntPWDCimsDnt?usp=sharing"><img src="assets/design/nav-iso-en.svg" alt="Download ISO" width="138" height="46"/></a> <a href="https://github.com/2207juan/EVA/blob/main/docs/en/compatibility.md"><img src="assets/design/nav-pc-en.svg" alt="Your PC" width="92" height="46"/></a> <a href="https://github.com/2207juan/EVA/blob/main/docs/en/installation.md"><img src="assets/design/nav-install-en.svg" alt="Install" width="112" height="46"/></a> <a href="https://github.com/2207juan/EVA/blob/main/docs/en/shortcuts.md"><img src="assets/design/nav-keys-en.svg" alt="Shortcuts" width="104" height="46"/></a> <a href="https://webdesing-40d1a.web.app/"><img src="assets/design/nav-web-en.svg" alt="Web" width="72" height="46"/></a></p>
 
-https://github.com/user-attachments/assets/66bce099-2a7d-4ea7-a75f-3814e7d73b33
+[![EVA · original video](assets/animations/eva-original.gif)](https://github.com/user-attachments/assets/c292d55c-3c64-49e1-a3cc-a51a9871c509)
 
-<h3 align="center">Desktop tour</h3>
+<img src="assets/design/section-tour-en.svg" alt="Desktop tour" width="100%"/>
 
-https://github.com/user-attachments/assets/f1e487e2-4d09-4ad7-be5e-f2fbfe0973a5
+[![EVA · Desktop tour](assets/animations/eva-tour-en.gif)](https://github.com/user-attachments/assets/f1e487e2-4d09-4ad7-be5e-f2fbfe0973a5)
 
-<h3 align="center">Desktop</h3>
+<img src="assets/design/section-desktop-en.svg" alt="Desktop" width="100%"/>
 
 <table>
 <tr>
@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/f1e487e2-4d09-4ad7-be5e-f2fbfe0973a5
 </tr>
 </table>
 
-<h3 align="center">Settings</h3>
+<img src="assets/design/section-settings-en.svg" alt="Settings" width="100%"/>
 
 <table>
 <tr>
@@ -36,11 +36,11 @@ https://github.com/user-attachments/assets/f1e487e2-4d09-4ad7-be5e-f2fbfe0973a5
 </tr>
 </table>
 
-<h3 align="center">Games</h3>
+<img src="assets/design/section-games-en.svg" alt="Games" width="100%"/>
 
 <img src="assets/previews/en/games.png" alt="Game library" width="100%"/>
 
-<h3 align="center">Widgets & pets</h3>
+<img src="assets/design/section-companions-en.svg" alt="Widgets & pets" width="100%"/>
 
 <table>
 <tr>

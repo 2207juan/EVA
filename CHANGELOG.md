@@ -1,3 +1,11 @@
+# 2026-11-07 · Mobile presentation / Presentación móvil
+
+- New outlined typography, dark navigation buttons and violet, cyan and rose artwork.
+- Full-length animated image fallback for mobile renderers; web players retain sound.
+- Original video supplied as H.264/AAC MP4 for wider browser support.
+
+---
+
 # 2026-11-06 · Simplified presentation / Presentación simplificada
 
 - Original EVA video visible first, followed by a new continuous desktop tour.
