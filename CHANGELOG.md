@@ -1,3 +1,11 @@
+# 2026-11-18 · Nueva versión beta
+
+- Nueva ISO experimental de 32 bits (i686/SSE2).
+- Mejoras de Wi-Fi y reparto equilibrado de hasta ocho ventanas.
+- Ajustes de renderizado y VRR para juegos compatibles.
+- XPIXEL beta: programas Linux/Windows y gestión de mods con Wine/Proton externos.
+- Correcciones del instalador, capturas, sonido y TUXSTORE.
+
 # 2026-11-07 · Streaming preview / Reproductor de vídeo
 
 - Eva-tux.webp below Distro Linux, keeping the dark header.
