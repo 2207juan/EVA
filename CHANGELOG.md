@@ -1,3 +1,8 @@
+# 2026-11-19 · ISO (32) actualizada
+
+- Corrección de descargas y reintento de firmas.
+- Mejoras al abrir y restaurar aplicaciones.
+
 # 2026-11-18 · Nueva versión beta
 
 - Nueva ISO experimental de 32 bits (i686/SSE2).
