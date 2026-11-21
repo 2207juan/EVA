@@ -24,5 +24,5 @@ Try the Live USB before installing. ARM and Secure Boot have not been tested yet
 For older computers with a 32-bit-only processor (i686 with SSE2). It boots with BIOS or 32-bit UEFI and it is the same EVA, with its animations, widgets and apps.
 
 - If your processor is 64-bit, use the regular ISO, even with little RAM.
-- Steam and modern NVIDIA drivers are not included.
+- The first time you start an installed EVA, a menu helps you install the drivers for your PC.
 - Automatic updates are not available in this edition yet.

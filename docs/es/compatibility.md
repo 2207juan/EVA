@@ -24,5 +24,5 @@ Antes de instalar, prueba el USB Live. Todavía no se ha probado en ARM ni con S
 Para equipos antiguos con procesador de solo 32 bits (i686 con SSE2). Arranca con BIOS o UEFI de 32 bits y es la misma EVA, con sus animaciones, widgets y aplicaciones.
 
 - Si tu procesador es de 64 bits, usa la ISO normal, aunque tengas poca RAM.
-- No incluye Steam ni los controladores NVIDIA modernos.
+- La primera vez que inicias EVA instalada, un menú te ayuda a instalar los controladores de tu PC.
 - Las actualizaciones automáticas todavía no están disponibles en esta edición.
