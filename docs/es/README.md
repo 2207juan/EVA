@@ -1,8 +1,8 @@
 <p align="center"><a href="https://github.com/2207juan/EVA/blob/main/docs/es/README.md">Español</a> &nbsp; · &nbsp; <a href="https://github.com/2207juan/EVA/blob/main/docs/en/README.md">English</a></p>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="../../assets/design/cover-mobile-es.svg?v=20261121-eva-mark"/>
-  <img src="../../assets/design/cover-es.svg?v=20261121-eva-mark" alt="EVA · Distro Linux · Beta · x86_64 · i686" width="100%"/>
+  <source media="(max-width: 600px)" srcset="../../assets/design/cover-mobile-es.svg?v=20261121-eva-clean"/>
+  <img src="../../assets/design/cover-es.svg?v=20261121-eva-clean" alt="EVA · Distro Linux · Beta · x86_64 · i686" width="100%"/>
 </picture>
 
 <p align="center"><a href="https://drive.google.com/drive/folders/1uZRp9SGSDykXUKvbprnLntPWDCimsDnt?usp=sharing"><img src="../../assets/design/nav-iso-es.svg?v=20261121-badges" alt="Descargar ISO (64) · x86_64" width="161" height="28"/></a> <a href="https://github.com/2207juan/EVA/releases/tag/v2026.11.21-i686"><img src="../../assets/design/nav-iso32-es.svg?v=20261121-badges" alt="ISO (32) · i686" width="127" height="28"/></a> <a href="https://github.com/2207juan/EVA/blob/main/docs/es/compatibility.md"><img src="../../assets/design/nav-pc-es.svg?v=20261121-badges" alt="Tu PC" width="121" height="28"/></a> <a href="https://github.com/2207juan/EVA/blob/main/docs/es/installation.md"><img src="../../assets/design/nav-install-es.svg?v=20261121-badges" alt="Instalar" width="141" height="28"/></a> <a href="https://github.com/2207juan/EVA/blob/main/docs/es/shortcuts.md"><img src="../../assets/design/nav-keys-es.svg?v=20261121-badges" alt="Atajos" width="120" height="28"/></a> <a href="https://webdesing-40d1a.web.app/"><img src="../../assets/design/nav-web-es.svg?v=20261121-badges" alt="Web" width="100" height="28"/></a></p>
