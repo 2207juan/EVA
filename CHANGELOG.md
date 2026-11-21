@@ -3,6 +3,8 @@
 - Traducciones, Prisma y autenticación mejorados.
 - Nuevos temas GRUB y protección del arranque.
 - Mejoras de memoria y animaciones.
+- Presentación renovada: capturas nuevas en español e inglés, GRUB, dock, clima y Game Center.
+- Tu PC: una sola ISO para 2 a 32 GB de RAM. Atajos actualizados.
 
 # 2026-11-19 · ISO (32) actualizada
 

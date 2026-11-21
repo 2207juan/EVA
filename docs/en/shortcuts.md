@@ -2,7 +2,7 @@
 
 # Complete shortcut reference
 
-Factory defaults from the current source. **Super is the Windows key.** Change combinations in **Settings → Keyboard**. Your saved bindings take priority. The PC and laptop columns show the detected hardware profiles.
+**Super is the Windows key.** You can change any shortcut in **Settings → Keyboard**. EVA detects whether you use a desktop PC or a laptop and picks the matching column.
 
 ## Applications and desktop
 
@@ -11,6 +11,8 @@ Factory defaults from the current source. **Super is the Windows key.** Change c
 | Launcher | `Super` | `Super` |
 | Prisma | `Super+P` | `Super+P` |
 | Terminal | `Alt+Enter` | `Alt+Enter` |
+| Terminal (quick shortcut) | `Super+Backspace` | `Super+Backspace` |
+| TUXSTORE | `Super+S` | `Super+S` |
 | Calculator | `Super+C` | `Super+C` |
 | Game cover library | `Super+0` | `Super+Alt+0` |
 | EVA AI | `Super+I` | `Super+I` |
@@ -27,7 +29,6 @@ Factory defaults from the current source. **Super is the Windows key.** Change c
 | :-- | :-- | :-- |
 | Screenshot | `Super+F` | `Super+F` |
 | Start / stop recording | `Super+G` | `Super+G` |
-| Local OCR | `Super+Shift+O` | `Super+Shift+O` |
 | Crop a window | `Super+Ctrl+Shift+T` | `Super+Ctrl+Shift+T` |
 | Draw on screen | `Super+Alt+D` | `Super+Alt+D` |
 
@@ -37,9 +38,8 @@ Factory defaults from the current source. **Super is the Windows key.** Change c
 | :-- | :-- | :-- |
 | Minimize window | `Super+T` | `Super+T` |
 | Close window | `Super+Q` | `Super+Q` |
+| Fullscreen | `Super+Enter` | `Super+Enter` |
 | Cycle apps | `Alt+F1` | `Alt+Tab` |
-| Show window controls | `Super+Ctrl+↑` | `Super+Ctrl+↑` |
-| Hide window controls | `Super+Ctrl+↓` | `Super+Ctrl+↓` |
 | Window to previous monitor | `Super+Ctrl+←` | `Super+Ctrl+←` |
 | Window to next monitor | `Super+Ctrl+→` | `Super+Ctrl+→` |
 | Pointer to left monitor | `Super+Alt+←` | `Super+Alt+←` |
@@ -113,4 +113,4 @@ Factory defaults from the current source. **Super is the Windows key.** Change c
 | Copy in Kitty | `Ctrl+Shift+C` |
 | Paste in EVA Kitty | `Ctrl+V` |
 
-Hardware actions appear when the device exposes the relevant capability. On laptops, function keys may require Fn. Emergency exit ends EVA and is not a routine test shortcut. Workspaces above the configured count must be enabled before use.
+Volume, brightness and keyboard-light keys only show up if your computer has them; on laptops you may need to hold Fn. `Alt+Esc` closes EVA at once: use it only if the desktop freezes. Workspaces 5 to 10 are turned on in **Settings → Personalization**.

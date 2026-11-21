@@ -2,15 +2,27 @@
 
 # Tu PC
 
-![EVA · Compatibilidad del PC](../../assets/design/pc-es.svg)
+![EVA · Tu PC](../../assets/design/pc-es.svg)
 
-Para PC y portátiles Intel y AMD de 64 bits, con arranque BIOS o UEFI y un controlador gráfico compatible con Wayland.
+EVA funciona en PC y portátiles Intel o AMD de 64 bits, con BIOS o UEFI.
 
-Las cifras de RAM y disco son recomendaciones para una primera prueba, no mínimos medidos. Deja espacio adicional para tus archivos. EVA está en beta: prueba el USB Live antes de instalar. ARM y Secure Boot no están verificados.
+**Una sola ISO para cualquier cantidad de RAM.** Al arrancar, EVA mira la memoria y los núcleos de tu equipo y ajusta las animaciones sola. No tienes que elegir nada y no se pierde ninguna función.
 
+| RAM | Animaciones |
+| :-- | :-- |
+| 2 GB | 30 fps |
+| 4 – 6 GB | 45 fps |
+| 8 GB o más | 60 fps |
+| 12 – 32 GB, 8 núcleos o más (PC de escritorio) | hasta 240 fps |
 
-## ISO (32) · beta experimental
+Con 4 núcleos o menos, o en un portátil con batería, EVA usa 45 fps para ir fluida y ahorrar energía.
 
-Edición i686 con SSE2, BIOS y UEFI IA32. Arranque Live probado en máquinas virtuales con 2 GB de RAM; eso no garantiza compatibilidad con toda GPU antigua. Un UEFI exclusivamente x64 requiere la edición x86_64 o modo BIOS. Steam actual y NVIDIA propietario moderno no están disponibles en esta edición.
+Antes de instalar, prueba el USB Live. Todavía no se ha probado en ARM ni con Secure Boot.
 
-Reutiliza las animaciones, widgets y aplicaciones de EVA. El canal de actualizaciones EVA i686 sigue en preparación y está deshabilitado; no recibe paquetes x86_64. Se recomienda x86_64 si tu CPU lo permite, incluso con poca RAM.
+## ISO (32)
+
+Para equipos antiguos con procesador de solo 32 bits (i686 con SSE2). Arranca con BIOS o UEFI de 32 bits y es la misma EVA, con sus animaciones, widgets y aplicaciones.
+
+- Si tu procesador es de 64 bits, usa la ISO normal, aunque tengas poca RAM.
+- No incluye Steam ni los controladores NVIDIA modernos.
+- Las actualizaciones automáticas todavía no están disponibles en esta edición.
