@@ -2,7 +2,7 @@
 
 # Referencia completa de atajos
 
-Valores de origen del código actual. **Super es la tecla Windows.** Cambia las combinaciones en **Ajustes → Teclado**. Tus atajos guardados tienen prioridad. Las columnas PC y portátil corresponden al perfil de hardware detectado.
+**Super es la tecla Windows.** Puedes cambiar cualquier atajo en **Ajustes → Teclado**. EVA detecta si usas un PC o un portátil y elige la columna correspondiente.
 
 ## Aplicaciones y escritorio
 
@@ -11,6 +11,8 @@ Valores de origen del código actual. **Super es la tecla Windows.** Cambia las 
 | Lanzador | `Super` | `Super` |
 | Prisma | `Super+P` | `Super+P` |
 | Terminal | `Alt+Enter` | `Alt+Enter` |
+| Terminal (atajo rápido) | `Super+Retroceso` | `Super+Retroceso` |
+| TUXSTORE | `Super+S` | `Super+S` |
 | Calculadora | `Super+C` | `Super+C` |
 | Biblioteca de carátulas | `Super+0` | `Super+Alt+0` |
 | EVA IA | `Super+I` | `Super+I` |
@@ -27,7 +29,6 @@ Valores de origen del código actual. **Super es la tecla Windows.** Cambia las 
 | :-- | :-- | :-- |
 | Captura de pantalla | `Super+F` | `Super+F` |
 | Iniciar / detener grabación | `Super+G` | `Super+G` |
-| OCR local | `Super+Shift+O` | `Super+Shift+O` |
 | Recortar una ventana | `Super+Ctrl+Shift+T` | `Super+Ctrl+Shift+T` |
 | Dibujar sobre pantalla | `Super+Alt+D` | `Super+Alt+D` |
 
@@ -37,9 +38,8 @@ Valores de origen del código actual. **Super es la tecla Windows.** Cambia las 
 | :-- | :-- | :-- |
 | Minimizar ventana | `Super+T` | `Super+T` |
 | Cerrar ventana | `Super+Q` | `Super+Q` |
+| Pantalla completa | `Super+Enter` | `Super+Enter` |
 | Recorrer aplicaciones | `Alt+F1` | `Alt+Tab` |
-| Mostrar controles de ventana | `Super+Ctrl+↑` | `Super+Ctrl+↑` |
-| Ocultar controles de ventana | `Super+Ctrl+↓` | `Super+Ctrl+↓` |
 | Ventana al monitor anterior | `Super+Ctrl+←` | `Super+Ctrl+←` |
 | Ventana al monitor siguiente | `Super+Ctrl+→` | `Super+Ctrl+→` |
 | Puntero al monitor izquierdo | `Super+Alt+←` | `Super+Alt+←` |
@@ -113,4 +113,4 @@ Valores de origen del código actual. **Super es la tecla Windows.** Cambia las 
 | Copiar en Kitty | `Ctrl+Shift+C` |
 | Pegar en Kitty de EVA | `Ctrl+V` |
 
-Las acciones de hardware aparecen cuando el dispositivo expone la capacidad correspondiente. En portátiles, las teclas de función pueden requerir Fn. La salida de emergencia termina EVA y no es un atajo de prueba habitual. Para usar escritorios superiores al número configurado, primero debes habilitarlos.
+Las teclas de volumen, brillo y luz del teclado solo aparecen si tu equipo las tiene; en portátiles quizá debas pulsar Fn. `Alt+Esc` cierra EVA de golpe: úsalo solo si el escritorio se queda bloqueado. Los escritorios 5 a 10 se activan en **Ajustes → Personalización**.
