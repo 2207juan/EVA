@@ -1,3 +1,9 @@
+# 2026-11-21 · Nueva ISO (32) beta
+
+- Traducciones, Prisma y autenticación mejorados.
+- Nuevos temas GRUB y protección del arranque.
+- Mejoras de memoria y animaciones.
+
 # 2026-11-19 · ISO (32) actualizada
 
 - Corrección de descargas y reintento de firmas.
