@@ -25,7 +25,7 @@
 
 <img src="assets/design/section-settings-en.svg?v=20261121-badges" alt="Settings" width="100%"/>
 
-<img src="assets/gallery/settings-en.jpg?v=20261122-settings" alt="Settings: control center, appearance, bar and wallpapers" width="100%"/>
+<img src="assets/gallery/settings-en.jpg?v=20261122-profile" alt="Settings: control center, appearance, bar and wallpapers" width="100%"/>
 
 <img src="assets/design/section-companions-en.svg?v=20261121-badges" alt="Widgets &amp; pets" width="100%"/>
 
