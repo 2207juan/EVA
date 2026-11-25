@@ -1,3 +1,8 @@
+# 2026-11-24 · Nueva ISO (32) beta
+
+- Correcciones de apertura y reparto de ventanas en Equilibrio.
+- Mejoras de animaciones, traducciones y ajustes de sonido.
+
 # 2026-11-21 · Nueva ISO (32) beta
 
 - Traducciones, Prisma y autenticación mejorados.
